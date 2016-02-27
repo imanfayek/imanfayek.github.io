@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="imanfayek.com" resolutions="1x" timestamp="1456538735728">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="imanfayek.com" resolutions="1x" timestamp="1456543359802">
   <folder name="css">
     <file name="site_global.css" crc="216051557"/>
-    <file name="master_a-master.css" crc="4101449568" ref="contact:game-design:index:drawings---doodles:portfolio:about:3d-models"/>
-    <file name="contact.css" crc="103572580" ref="contact"/>
-    <file name="game-design.css" crc="461026438" ref="game-design"/>
-    <file name="index.css" crc="3895137116" ref="index"/>
-    <file name="drawings---doodles.css" crc="317568234" ref="drawings---doodles"/>
-    <file name="portfolio.css" crc="4253210321" ref="portfolio"/>
-    <file name="about.css" crc="4156488811" ref="about"/>
+    <file name="master_a-master.css" crc="3919659089" ref="3d-models:portfolio:drawings---doodles:game-design:about:index:contact"/>
     <file name="3d-models.css" crc="208660279" ref="3d-models"/>
+    <file name="portfolio.css" crc="4253210321" ref="portfolio"/>
+    <file name="drawings---doodles.css" crc="317568234" ref="drawings---doodles"/>
+    <file name="game-design.css" crc="461026438" ref="game-design"/>
+    <file name="about.css" crc="4156488811" ref="about"/>
+    <file name="index.css" crc="3895137116" ref="index"/>
+    <file name="contact.css" crc="3942008201" ref="contact"/>
   </folder>
   <folder name="fonts">
     <file name="imanhandwriting-regular.woff" crc="208314447"/>
@@ -19,22 +19,16 @@
     <file name="museutils.js" crc="4190794036" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:drawings---doodles:3d-models:game-design:index"/>
     <file name="whatinput.js" crc="84559013" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:drawings---doodles:3d-models:game-design:index"/>
     <file name="jquery.musemenu.js" crc="3866264083" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:drawings---doodles:3d-models:game-design:index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="phone>index:phone>about:tablet>index:tablet>portfolio:tablet>my-story:portfolio:about:contact:drawings---doodles:3d-models:game-design"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="phone>index:phone>about:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:drawings---doodles:3d-models:game-design"/>
     <file name="jquery.watch.js" crc="349565855" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:drawings---doodles:3d-models:game-design:index"/>
     <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:drawings---doodles:3d-models:game-design:index"/>
-    <file name="webpro.js" crc="488283310" ref="phone>portfolio:phone>contact:tablet>portfolio:tablet>contact:contact:drawings---doodles:3d-models"/>
+    <file name="webpro.js" crc="488283310" ref="phone>portfolio:tablet>portfolio:drawings---doodles:3d-models"/>
     <file name="musewpslideshow.js" crc="248860441" ref="phone>portfolio:tablet>portfolio:drawings---doodles:3d-models"/>
     <file name="jquery.museoverlay.js" crc="3898476799" ref="phone>portfolio:tablet>portfolio:drawings---doodles:3d-models"/>
     <file name="touchswipe.js" crc="4191887251" ref="phone>portfolio:tablet>portfolio:drawings---doodles:3d-models"/>
-    <file name="form_check.php" crc="430210585" ref="phone>contact:tablet>contact:contact"/>
-    <file name="form_throttle.php" crc="282343929" ref="phone>contact:tablet>contact:contact"/>
-    <file name="form_process.php" crc="339897355" ref="phone>contact:tablet>contact:contact"/>
-    <file name="form-u1843.php" crc="22174941" ref="phone>contact"/>
     <file name="museredirect.js" crc="3985760531" ref="tablet>index:tablet>portfolio:tablet>contact:portfolio:about:contact:index"/>
     <file name="pie.js" crc="3827607177" ref="tablet>portfolio:drawings---doodles:3d-models"/>
-    <file name="form-u4111.php" crc="3924642582" ref="tablet>contact"/>
     <file name="jquery.scrolleffects.js" crc="3837774061" ref="portfolio:about:contact:drawings---doodles:3d-models:game-design"/>
-    <file name="form-u1114.php" crc="3790416213" ref="contact"/>
   </folder>
   <folder name="images">
     <file name="lips63x63.png" crc="3794422018" seo="true" ref="phone>index"/>
@@ -62,21 +56,17 @@
     <file name="snapchat-5811042481588904862-u10971-fr.jpg" crc="3911049850" ref="phone>about"/>
     <file name="unnamed-u1839-fr.jpg" crc="342102234" ref="phone>about"/>
     <file name="songofstorms340x89.png" crc="3892056058" seo="true" ref="phone>about"/>
-    <file name="u1859-17.png" crc="3967881782" ref="phone>contact"/>
-    <file name="u1859-17-r.png" crc="298116894" ref="phone>contact"/>
-    <file name="u1859-17-m.png" crc="298116894" ref="phone>contact"/>
-    <file name="u1859-17-fs.png" crc="3967881782" ref="phone>contact"/>
     <file name="lips55x55.png" crc="3899725330" seo="true" ref="tablet>index"/>
     <file name="bfett.jpg" crc="3770680516" ref="tablet>index"/>
     <file name="snapchat-5811042481588904862.jpg" crc="51643796" ref="tablet>index"/>
-    <file name="paper.jpg" crc="339142241" ref="tablet>portfolio:tablet>my-story:portfolio:about:contact:drawings---doodles:3d-models:game-design"/>
+    <file name="paper.jpg" crc="339142241" ref="tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:drawings---doodles:3d-models:game-design"/>
     <file name="applesolo.png" crc="4204606252" seo="true" ref="tablet>portfolio:game-design"/>
     <file name="squirrelsolo2.gif" crc="3944628" seo="true" ref="tablet>portfolio:game-design"/>
     <file name="mailwoman-crop-u11371.png" crc="224917691" ref="tablet>portfolio"/>
     <file name="brickb-crop-u11451.jpg" crc="3957544509" ref="tablet>portfolio"/>
     <file name="samplemapdog-crop-u11391.jpg" crc="4077955850" ref="tablet>portfolio"/>
     <file name="arrows-mn_close.png" crc="206776778" ref="tablet>portfolio:drawings---doodles:3d-models"/>
-    <file name="bfett250x440.jpg" crc="7850815" seo="true" ref="tablet>portfolio"/>
+    <file name="bfett250x441.jpg" crc="7850815" seo="true" ref="tablet>portfolio"/>
     <file name="chewbacca.jpg" crc="490329028" seo="true" ref="tablet>portfolio:drawings---doodles"/>
     <file name="arab.jpg" crc="3987733395" seo="true" ref="tablet>portfolio:drawings---doodles"/>
     <file name="roscoe.jpg" crc="262960436" seo="true" ref="tablet>portfolio:drawings---doodles"/>
@@ -101,10 +91,6 @@
     <file name="songofstorms510x134.png" crc="3932605526" seo="true" ref="tablet>my-story"/>
     <file name="unnamed.jpg" crc="3797029482" ref="tablet>my-story:about"/>
     <file name="img_20151224_141721-u2703-fr.jpg" crc="4076697008" ref="tablet>my-story"/>
-    <file name="u4117-17.png" crc="3967881782" ref="tablet>contact"/>
-    <file name="u4117-17-r.png" crc="298116894" ref="tablet>contact"/>
-    <file name="u4117-17-m.png" crc="298116894" ref="tablet>contact"/>
-    <file name="u4117-17-fs.png" crc="3967881782" ref="tablet>contact"/>
     <file name="flowerrounded2.png" crc="276497506" seo="true" ref="portfolio:about:contact:drawings---doodles:3d-models:game-design:index"/>
     <file name="heart.png" crc="3867329174" seo="true" ref="portfolio:about:contact:drawings---doodles:3d-models:game-design:index"/>
     <file name="sketch1403310580006.png" crc="110515056" ref="portfolio"/>
@@ -114,10 +100,6 @@
     <file name="snapchat-37815170972364814772.jpg" crc="4109804459" ref="about"/>
     <file name="1400104493197.jpg" crc="3772362136" ref="about"/>
     <file name="songofstorms.png" crc="364148068" seo="true" ref="about"/>
-    <file name="u1130-17.png" crc="3967881782" ref="contact"/>
-    <file name="u1130-17-r.png" crc="298116894" ref="contact"/>
-    <file name="u1130-17-m.png" crc="298116894" ref="contact"/>
-    <file name="u1130-17-fs.png" crc="3967881782" ref="contact"/>
     <file name="arab-crop-u5462.jpg" crc="3833337531" ref="drawings---doodles"/>
     <file name="roscoe300x346.jpg" crc="3828309370" seo="true" ref="drawings---doodles"/>
     <file name="snail340x300.jpg" crc="428596828" seo="true" ref="drawings---doodles"/>
@@ -144,35 +126,35 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="master_a-master.css" crc="4086350536" ref="tablet>portfolio:tablet>index:tablet>my-story:tablet>contact"/>
-      <file name="portfolio.css" crc="253076021" ref="tablet>portfolio"/>
+      <file name="master_a-master.css" crc="3808030044" ref="tablet>portfolio:tablet>index:tablet>contact:tablet>my-story"/>
+      <file name="portfolio.css" crc="311796822" ref="tablet>portfolio"/>
       <file name="index.css" crc="4176998495" ref="tablet>index"/>
+      <file name="contact.css" crc="141966087" ref="tablet>contact"/>
       <file name="my-story.css" crc="22791061" ref="tablet>my-story"/>
-      <file name="contact.css" crc="4120092106" ref="tablet>contact"/>
     </folder>
     <file name="index.html" crc="4190940445" seo="true" mt="1456529649879" redirect="true"/>
-    <file name="portfolio.html" crc="342800193" seo="true" mt="1456531915844" redirect="true"/>
+    <file name="portfolio.html" crc="114306318" seo="true" mt="1456531915844" redirect="true"/>
     <file name="my-story.html" crc="3802515298" seo="true" mt="1456537456166" redirect="true"/>
-    <file name="contact.html" crc="3818846671" seo="true" mt="1456538657026" redirect="true"/>
+    <file name="contact.html" crc="4187194540" seo="true" mt="1456542697197" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="196500288" ref="phone>contact:phone>index:phone>portfolio:phone>about"/>
-      <file name="contact.css" crc="4131985531" ref="phone>contact"/>
-      <file name="index.css" crc="4128587944" ref="phone>index"/>
-      <file name="portfolio.css" crc="136320792" ref="phone>portfolio"/>
+      <file name="master_a-master.css" crc="372962751" ref="phone>about:phone>contact:phone>index:phone>portfolio"/>
       <file name="about.css" crc="93560274" ref="phone>about"/>
+      <file name="contact.css" crc="480977390" ref="phone>contact"/>
+      <file name="index.css" crc="480385307" ref="phone>index"/>
+      <file name="portfolio.css" crc="136320792" ref="phone>portfolio"/>
     </folder>
     <file name="index.html" crc="3950626231" seo="true" mt="1456466741909" redirect="true"/>
     <file name="portfolio.html" crc="43315535" seo="true" mt="1456531979428" redirect="true"/>
     <file name="about.html" crc="416281506" seo="true" mt="1456537456167" redirect="true"/>
-    <file name="contact.html" crc="3798897829" seo="true" mt="1456538194837" redirect="true"/>
+    <file name="contact.html" crc="3804566961" seo="true" mt="1456541600951" redirect="true"/>
   </folder>
-  <file name="portfolio.html" crc="310449409" seo="true" mt="1456530859877" redirect="true"/>
-  <file name="about.html" crc="4116989758" seo="true" mt="1456537456165" redirect="true"/>
-  <file name="contact.html" crc="198783842" seo="true" mt="1456538538543" redirect="true"/>
-  <file name="drawings---doodles.html" crc="400217929" seo="true" mt="1456532089261" redirect="true"/>
-  <file name="3d-models.html" crc="227929355" seo="true" mt="1456530859872" redirect="true"/>
-  <file name="game-design.html" crc="448707030" seo="true" mt="1456532447160" redirect="true"/>
+  <file name="portfolio.html" crc="386428630" seo="true" mt="1456530859877" redirect="true"/>
+  <file name="about.html" crc="3934800950" seo="true" mt="1456537456165" redirect="true"/>
+  <file name="contact.html" crc="4116155092" seo="true" mt="1456542715493" redirect="true"/>
+  <file name="drawings---doodles.html" crc="524698402" seo="true" mt="1456532089261" redirect="true"/>
+  <file name="3d-models.html" crc="281512117" seo="true" mt="1456530859872" redirect="true"/>
+  <file name="game-design.html" crc="4019709152" seo="true" mt="1456532447160" redirect="true"/>
   <file name="index.html" crc="3869090064" seo="true" mt="1456390713879" redirect="true"/>
 </manifest>
