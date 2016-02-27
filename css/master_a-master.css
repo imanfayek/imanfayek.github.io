@@ -1,0 +1,184 @@
+#u174
+{
+	border-style: solid;
+	border-width: 5px;
+	border-color: #000000;
+	background: transparent url("../images/imansolo.gif") no-repeat center center;
+	background-size: cover;
+}
+
+#u175-4
+{
+	background-color: transparent;
+	line-height: 58px;
+	font-size: 48px;
+	font-family: '__ImanHandwriting_5';
+	font-weight: 400;
+}
+
+#u591-4
+{
+	background-color: transparent;
+	line-height: 29px;
+	font-size: 24px;
+	font-family: '__ImanHandwriting_5';
+	font-weight: 400;
+}
+
+#menuu205
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u5729,#u5749,#u5752,#u5755,#u5758,#u5764,#u5767,#u5770,#u5773,#u5779,#u5782,#u5785,#u5788,#u5873,#u8550,#u8553
+{
+	background-color: transparent;
+}
+
+#u8553:hover
+{
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+}
+
+#u8555-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 43px;
+	font-size: 36px;
+	font-family: '__ImanHandwriting_5';
+	font-weight: 400;
+}
+
+#u8553:hover #u8555-4 p
+{
+	color: #C69C6D;
+	visibility: inherit;
+}
+
+#u227,#u228
+{
+	background-color: transparent;
+}
+
+#u228:hover
+{
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+}
+
+#u231-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 43px;
+	font-size: 36px;
+	font-family: '__ImanHandwriting_5';
+	font-weight: 400;
+}
+
+#u8553.MuseMenuActive #u8555-4 p,#u228:hover #u231-4 p
+{
+	color: #C69C6D;
+	visibility: inherit;
+}
+
+#u240,#u243
+{
+	background-color: transparent;
+}
+
+#u243:hover
+{
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+}
+
+#u246-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 43px;
+	font-size: 36px;
+	font-family: '__ImanHandwriting_5';
+	font-weight: 400;
+}
+
+#u228.MuseMenuActive #u231-4 p,#u243:hover #u246-4 p
+{
+	color: #C69C6D;
+	visibility: inherit;
+}
+
+#u253,#u254
+{
+	background-color: transparent;
+}
+
+#u254:hover
+{
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+}
+
+#u8553.MuseMenuActive,#u228.MuseMenuActive,#u243.MuseMenuActive,#u254.MuseMenuActive
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u256-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 43px;
+	font-size: 36px;
+	font-family: '__ImanHandwriting_5';
+	font-weight: 400;
+}
+
+#u243.MuseMenuActive #u246-4 p,#u254:hover #u256-4 p
+{
+	color: #C69C6D;
+	visibility: inherit;
+}
+
+#u254.MuseMenuActive #u256-4 p
+{
+	color: #C69C6D;
+	visibility: inherit;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u10392,#u10402,#u10412,#u10422,#u6139,#u5870,#u5776,#u5761
+{
+	background-color: transparent;
+}
+
+#u9726-4
+{
+	background-color: transparent;
+	font-size: 30px;
+	line-height: 36px;
+	text-align: center;
+	font-family: '__ImanHandwriting_5';
+	font-weight: 400;
+}
+
+

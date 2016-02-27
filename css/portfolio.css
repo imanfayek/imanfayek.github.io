@@ -1,0 +1,742 @@
+/*
+© Iman Fayek
+*/
+
+.version.portfolio /* version checker */
+{
+	color: #0000FD;
+	background-color: #82D6D1;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 671px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 3px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#pu5729
+{
+	width: 0.01px;
+	padding-bottom: 676px;
+	margin-right: -10000px;
+	margin-top: 18px;
+	margin-left: -73px;
+}
+
+#u5729
+{
+	z-index: 7;
+	width: 140px;
+	position: fixed;
+	top: 18px;
+	right: 9px;
+}
+
+#u5749
+{
+	z-index: 9;
+	width: 97px;
+	position: fixed;
+	top: 186px;
+	right: 61px;
+}
+
+#u5752
+{
+	z-index: 11;
+	width: 140px;
+	position: fixed;
+	top: 266px;
+	right: -24px;
+}
+
+#u5755
+{
+	z-index: 13;
+	width: 140px;
+	position: fixed;
+	bottom: -20px;
+	right: -20px;
+}
+
+#u5758
+{
+	z-index: 15;
+	width: 105px;
+	position: fixed;
+	bottom: 58px;
+	right: 97px;
+}
+
+#u5764
+{
+	z-index: 17;
+	width: 123px;
+	position: fixed;
+	bottom: 124px;
+	right: 0px;
+}
+
+#u5767
+{
+	z-index: 21;
+	width: 93px;
+	position: fixed;
+	bottom: 14px;
+	right: 208px;
+}
+
+#u5770
+{
+	z-index: 23;
+	width: 72px;
+	position: fixed;
+	bottom: -10px;
+	right: 136px;
+}
+
+#u5773
+{
+	z-index: 25;
+	width: 55px;
+	position: fixed;
+	bottom: 12px;
+	left: 50%;
+	margin-left: 14px;
+}
+
+#u5779
+{
+	z-index: 29;
+	width: 87px;
+	position: fixed;
+	bottom: 2px;
+	left: 50%;
+	margin-left: 122px;
+}
+
+#u5782
+{
+	z-index: 31;
+	width: 140px;
+	position: fixed;
+	bottom: -20px;
+	left: 50%;
+	margin-left: 209px;
+}
+
+#u5785
+{
+	z-index: 33;
+	width: 94px;
+	position: fixed;
+	top: 433px;
+	right: 115px;
+}
+
+#u5788
+{
+	z-index: 35;
+	width: 59px;
+	position: fixed;
+	bottom: 148px;
+	right: 202px;
+}
+
+#u5873
+{
+	z-index: 39;
+	width: 78px;
+	position: fixed;
+	bottom: 10px;
+	left: 50%;
+	margin-left: 377px;
+}
+
+#u174
+{
+	z-index: 66;
+	width: 151px;
+	height: 151px;
+	position: fixed;
+	bottom: 431px;
+	left: 67px;
+}
+
+#u175-4
+{
+	z-index: 67;
+	width: 281px;
+	min-height: 27px;
+	position: fixed;
+	bottom: 364px;
+	left: 68px;
+}
+
+#u591-4
+{
+	z-index: 71;
+	width: 281px;
+	min-height: 22px;
+	position: fixed;
+	bottom: 332px;
+	left: 68px;
+}
+
+#menuu205
+{
+	z-index: 75;
+	width: 281px;
+	position: fixed;
+	bottom: 26px;
+	left: 68px;
+}
+
+#u8550
+{
+	width: 281px;
+	position: relative;
+}
+
+#u8553
+{
+	width: 281px;
+	min-height: 43px;
+	padding-bottom: 20px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u8553:hover
+{
+	width: 281px;
+	min-height: 43px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u8555-4
+{
+	width: 281px;
+	min-height: 43px;
+	position: relative;
+	margin-right: -10000px;
+	top: 10px;
+}
+
+#u8553:hover #u8555-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 43px;
+	width: 281px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u228
+{
+	width: 281px;
+	min-height: 43px;
+	padding-bottom: 20px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u8553.MuseMenuActive,#u228:hover
+{
+	width: 281px;
+	min-height: 43px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u231-4
+{
+	width: 281px;
+	min-height: 43px;
+	position: relative;
+	margin-right: -10000px;
+	top: 10px;
+}
+
+#u8553.MuseMenuActive #u8555-4,#u228:hover #u231-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 43px;
+	width: 281px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u243
+{
+	width: 281px;
+	min-height: 43px;
+	padding-bottom: 20px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u228.MuseMenuActive,#u243:hover
+{
+	width: 281px;
+	min-height: 43px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u246-4
+{
+	width: 281px;
+	min-height: 43px;
+	position: relative;
+	margin-right: -10000px;
+	top: 10px;
+}
+
+#u228.MuseMenuActive #u231-4,#u243:hover #u246-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 43px;
+	width: 281px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u227,#u240,#u253
+{
+	width: 281px;
+	margin-top: 2px;
+	position: relative;
+}
+
+#u254
+{
+	width: 281px;
+	min-height: 43px;
+	padding-bottom: 21px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u243.MuseMenuActive,#u254:hover
+{
+	width: 281px;
+	min-height: 43px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u254.MuseMenuActive
+{
+	width: 281px;
+	min-height: 43px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u256-4
+{
+	width: 281px;
+	min-height: 43px;
+	position: relative;
+	margin-right: -10000px;
+	top: 10px;
+}
+
+#u243.MuseMenuActive #u246-4,#u254:hover #u256-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 43px;
+	width: 281px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u254.MuseMenuActive #u256-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 43px;
+	width: 281px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u10392
+{
+	z-index: 100;
+	width: 28px;
+	position: fixed;
+	bottom: 290px;
+	left: 164px;
+}
+
+#u10402
+{
+	z-index: 102;
+	width: 37px;
+	position: fixed;
+	bottom: 290px;
+	left: 111px;
+}
+
+#u10412
+{
+	z-index: 104;
+	width: 27px;
+	position: fixed;
+	bottom: 290px;
+	left: 68px;
+}
+
+#u10422
+{
+	z-index: 106;
+	width: 46px;
+	position: fixed;
+	bottom: 290px;
+	left: 208px;
+}
+
+#u6139
+{
+	z-index: 108;
+	width: 40px;
+	position: fixed;
+	bottom: 383px;
+	left: 27px;
+}
+
+#ptop
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 20px;
+}
+
+#top
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	left: 467px;
+}
+
+#u10678
+{
+	z-index: 41;
+	width: 683px;
+	position: relative;
+	margin-right: -10000px;
+	padding: 120px 87px 41px 180px;
+	background: transparent url("../images/paper.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u910-4
+{
+	z-index: 42;
+	width: 575px;
+	min-height: 85px;
+	background-color: transparent;
+	line-height: 85px;
+	font-size: 100px;
+	font-family: '__ImanHandwriting_5';
+	font-weight: 400;
+	position: relative;
+}
+
+#u915-4
+{
+	z-index: 46;
+	width: 575px;
+	min-height: 62px;
+	background-color: transparent;
+	line-height: 39px;
+	font-size: 30px;
+	font-family: '__ImanHandwriting_5';
+	font-weight: 400;
+	margin-top: 87px;
+	position: relative;
+}
+
+#pbuttonu8235
+{
+	width: 0.01px;
+	margin-top: 44px;
+}
+
+#buttonu8235
+{
+	z-index: 51;
+	width: 332px;
+	border-width: 0px;
+	border-color: transparent;
+	padding-bottom: 26px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/sketch1403310580006.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u8236-4
+{
+	z-index: 52;
+	width: 283px;
+	min-height: 46px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: #3E3E3E;
+	background-color: #FFFFFF;
+	line-height: 43px;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 391px;
+	left: 20px;
+}
+
+#buttonu8235:hover #u8236-4
+{
+	background-color: #3E3E3E;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	width: 283px;
+	margin: 391px -10000px 0px 0px;
+}
+
+.Buttons_Style
+{
+	border-width: 5px;
+	border-color: #3E3E3E;
+	background-color: transparent;
+}
+
+#buttonu8235:hover #u8236-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu8246
+{
+	z-index: 56;
+	width: 333px;
+	border-width: 0px;
+	border-color: transparent;
+	padding-bottom: 26px;
+	position: relative;
+	margin-right: -10000px;
+	left: 350px;
+	background: transparent url("../images/monsterface.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8247-4
+{
+	z-index: 57;
+	width: 283px;
+	min-height: 46px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: #3E3E3E;
+	background-color: #FFFFFF;
+	line-height: 43px;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 391px;
+	left: 25px;
+}
+
+#buttonu8246:hover #u8247-4
+{
+	background-color: #3E3E3E;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	width: 283px;
+	margin: 391px -10000px 0px 0px;
+}
+
+#buttonu8235.ButtonSelected #u8236-4,#buttonu8246.ButtonSelected #u8247-4
+{
+	background-color: #FFFFFF;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	width: 283px;
+	margin: 391px -10000px 0px 0px;
+}
+
+#buttonu8246:hover #u8247-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu8634
+{
+	z-index: 61;
+	width: 683px;
+	border-width: 0px;
+	border-color: transparent;
+	padding-bottom: 29px;
+	margin-top: 22px;
+	position: relative;
+	background: transparent url("../images/samplemapdog.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8635-4
+{
+	z-index: 62;
+	width: 283px;
+	min-height: 46px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: #3E3E3E;
+	background-color: #FFFFFF;
+	line-height: 43px;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 388px;
+	left: 204px;
+}
+
+#buttonu8634:hover #u8635-4
+{
+	background-color: #3E3E3E;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	width: 283px;
+	margin: 388px -10000px 0px 0px;
+}
+
+#buttonu8634.ButtonSelected #u8635-4
+{
+	background-color: #FFFFFF;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 46px;
+	width: 283px;
+	margin: 388px -10000px 0px 0px;
+}
+
+#buttonu8634:hover #u8635-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu8235.ButtonSelected #u8236-4 p,#buttonu8246.ButtonSelected #u8247-4 p,#buttonu8634.ButtonSelected #u8635-4 p
+{
+	color: #3E3E3E;
+	visibility: inherit;
+}
+
+#u8236-2,#u8247-2,#u8635-2
+{
+	font-size: 36px;
+	font-family: '__ImanHandwriting_5';
+}
+
+#u1104
+{
+	z-index: 50;
+	width: 62px;
+	height: 62px;
+	-webkit-transform: matrix(0,1,-1,0,62,0);
+	-ms-transform: matrix(0,1,-1,0,62,0);
+	transform: matrix(0,1,-1,0,62,0);
+	position: fixed;
+	bottom: 89px;
+	right: 0px;
+	background: #F4F4F4 url("../images/arrows-mn_arrow_left.png") no-repeat center center;
+}
+
+#u1104:hover
+{
+	width: 62px;
+	height: 62px;
+	min-height: 0px;
+	margin: 0px;
+	background: #3E3E3E url("../images/arrows-mn_arrow_left%20white.png") no-repeat center center;
+}
+
+.js #u1104.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#u5870
+{
+	z-index: 37;
+	width: 55px;
+	position: fixed;
+	bottom: 0px;
+	left: 50%;
+	margin-left: 525px;
+}
+
+#u5776
+{
+	z-index: 27;
+	width: 94px;
+	position: fixed;
+	bottom: 221px;
+	right: -47px;
+}
+
+#u5761
+{
+	z-index: 19;
+	width: 70px;
+	position: fixed;
+	top: 517px;
+	right: -40px;
+}
+
+#u9726-4
+{
+	z-index: 3;
+	width: 454px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 64px;
+	left: 19px;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+.verticalspacer
+{
+	min-height: 1px;
+}
+
+@font-face
+{
+	font-family: '__ImanHandwriting_5';
+	src: url('../fonts/imanhandwriting-regular.eot');
+	src: local('☺'), url('../fonts/imanhandwriting-regular.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+

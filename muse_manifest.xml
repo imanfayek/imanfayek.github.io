@@ -1,0 +1,178 @@
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="imanfayek.com" resolutions="1x" timestamp="1456538735728">
+  <folder name="css">
+    <file name="site_global.css" crc="216051557"/>
+    <file name="master_a-master.css" crc="4101449568" ref="contact:game-design:index:drawings---doodles:portfolio:about:3d-models"/>
+    <file name="contact.css" crc="103572580" ref="contact"/>
+    <file name="game-design.css" crc="461026438" ref="game-design"/>
+    <file name="index.css" crc="3895137116" ref="index"/>
+    <file name="drawings---doodles.css" crc="317568234" ref="drawings---doodles"/>
+    <file name="portfolio.css" crc="4253210321" ref="portfolio"/>
+    <file name="about.css" crc="4156488811" ref="about"/>
+    <file name="3d-models.css" crc="208660279" ref="3d-models"/>
+  </folder>
+  <folder name="fonts">
+    <file name="imanhandwriting-regular.woff" crc="208314447"/>
+    <file name="imanhandwriting-regular.eot" crc="134402326"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:drawings---doodles:3d-models:game-design:index"/>
+    <file name="museutils.js" crc="4190794036" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:drawings---doodles:3d-models:game-design:index"/>
+    <file name="whatinput.js" crc="84559013" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:drawings---doodles:3d-models:game-design:index"/>
+    <file name="jquery.musemenu.js" crc="3866264083" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:drawings---doodles:3d-models:game-design:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="phone>index:phone>about:tablet>index:tablet>portfolio:tablet>my-story:portfolio:about:contact:drawings---doodles:3d-models:game-design"/>
+    <file name="jquery.watch.js" crc="349565855" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:drawings---doodles:3d-models:game-design:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:drawings---doodles:3d-models:game-design:index"/>
+    <file name="webpro.js" crc="488283310" ref="phone>portfolio:phone>contact:tablet>portfolio:tablet>contact:contact:drawings---doodles:3d-models"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="phone>portfolio:tablet>portfolio:drawings---doodles:3d-models"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="phone>portfolio:tablet>portfolio:drawings---doodles:3d-models"/>
+    <file name="touchswipe.js" crc="4191887251" ref="phone>portfolio:tablet>portfolio:drawings---doodles:3d-models"/>
+    <file name="form_check.php" crc="430210585" ref="phone>contact:tablet>contact:contact"/>
+    <file name="form_throttle.php" crc="282343929" ref="phone>contact:tablet>contact:contact"/>
+    <file name="form_process.php" crc="339897355" ref="phone>contact:tablet>contact:contact"/>
+    <file name="form-u1843.php" crc="22174941" ref="phone>contact"/>
+    <file name="museredirect.js" crc="3985760531" ref="tablet>index:tablet>portfolio:tablet>contact:portfolio:about:contact:index"/>
+    <file name="pie.js" crc="3827607177" ref="tablet>portfolio:drawings---doodles:3d-models"/>
+    <file name="form-u4111.php" crc="3924642582" ref="tablet>contact"/>
+    <file name="jquery.scrolleffects.js" crc="3837774061" ref="portfolio:about:contact:drawings---doodles:3d-models:game-design"/>
+    <file name="form-u1114.php" crc="3790416213" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="lips63x63.png" crc="3794422018" seo="true" ref="phone>index"/>
+    <file name="flowerrounded.png" crc="4283901759" seo="true" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact"/>
+    <file name="imansolo.gif" crc="177559756" ref="phone>index:tablet>index:portfolio"/>
+    <file name="samplemapdog.jpg" crc="3890408791" seo="true" ref="phone>index:tablet>portfolio:portfolio:game-design"/>
+    <file name="snapchat-20140815061539.jpg" crc="4206062548" ref="phone>index"/>
+    <file name="github.png" crc="526794717" seo="true" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:drawings---doodles:3d-models:game-design:index"/>
+    <file name="twitter.png" crc="3841755106" seo="true" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:drawings---doodles:3d-models:game-design:index"/>
+    <file name="pinterest.png" crc="3995826556" seo="true" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:drawings---doodles:3d-models:game-design:index"/>
+    <file name="linkedin.png" crc="156425999" seo="true" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:drawings---doodles:3d-models:game-design:index"/>
+    <file name="chihuahuasolo.gif" crc="3909281471" seo="true" ref="phone>portfolio:tablet>portfolio:game-design"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>portfolio:tablet>portfolio:drawings---doodles:3d-models"/>
+    <file name="bone.png" crc="247999427" seo="true" ref="phone>portfolio:tablet>portfolio:game-design"/>
+    <file name="squirrelsolo.gif" crc="3944628" seo="true" ref="phone>portfolio"/>
+    <file name="mailwoman.png" crc="505532046" seo="true" ref="phone>portfolio:tablet>portfolio:game-design"/>
+    <file name="brickb.jpg" crc="4123761086" seo="true" ref="phone>portfolio:tablet>portfolio"/>
+    <file name="bone-crop-u9802.png" crc="144928642" ref="phone>portfolio"/>
+    <file name="mailwoman-crop-u9842.png" crc="40489747" ref="phone>portfolio"/>
+    <file name="brickb-crop-u9822.jpg" crc="4002495180" ref="phone>portfolio"/>
+    <file name="arrows-mn_arrow_left.png" crc="4126107877" ref="phone>portfolio:tablet>portfolio:portfolio:about:contact:drawings---doodles:3d-models:game-design"/>
+    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="phone>portfolio:tablet>portfolio:drawings---doodles:3d-models"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>portfolio:tablet>portfolio:drawings---doodles:3d-models"/>
+    <file name="snapchat-3781517097236481477.jpg" crc="425879232" ref="phone>about"/>
+    <file name="snapchat-5811042481588904862-u10971-fr.jpg" crc="3911049850" ref="phone>about"/>
+    <file name="unnamed-u1839-fr.jpg" crc="342102234" ref="phone>about"/>
+    <file name="songofstorms340x89.png" crc="3892056058" seo="true" ref="phone>about"/>
+    <file name="u1859-17.png" crc="3967881782" ref="phone>contact"/>
+    <file name="u1859-17-r.png" crc="298116894" ref="phone>contact"/>
+    <file name="u1859-17-m.png" crc="298116894" ref="phone>contact"/>
+    <file name="u1859-17-fs.png" crc="3967881782" ref="phone>contact"/>
+    <file name="lips55x55.png" crc="3899725330" seo="true" ref="tablet>index"/>
+    <file name="bfett.jpg" crc="3770680516" ref="tablet>index"/>
+    <file name="snapchat-5811042481588904862.jpg" crc="51643796" ref="tablet>index"/>
+    <file name="paper.jpg" crc="339142241" ref="tablet>portfolio:tablet>my-story:portfolio:about:contact:drawings---doodles:3d-models:game-design"/>
+    <file name="applesolo.png" crc="4204606252" seo="true" ref="tablet>portfolio:game-design"/>
+    <file name="squirrelsolo2.gif" crc="3944628" seo="true" ref="tablet>portfolio:game-design"/>
+    <file name="mailwoman-crop-u11371.png" crc="224917691" ref="tablet>portfolio"/>
+    <file name="brickb-crop-u11451.jpg" crc="3957544509" ref="tablet>portfolio"/>
+    <file name="samplemapdog-crop-u11391.jpg" crc="4077955850" ref="tablet>portfolio"/>
+    <file name="arrows-mn_close.png" crc="206776778" ref="tablet>portfolio:drawings---doodles:3d-models"/>
+    <file name="bfett250x440.jpg" crc="7850815" seo="true" ref="tablet>portfolio"/>
+    <file name="chewbacca.jpg" crc="490329028" seo="true" ref="tablet>portfolio:drawings---doodles"/>
+    <file name="arab.jpg" crc="3987733395" seo="true" ref="tablet>portfolio:drawings---doodles"/>
+    <file name="roscoe.jpg" crc="262960436" seo="true" ref="tablet>portfolio:drawings---doodles"/>
+    <file name="snail.jpg" crc="57817378" seo="true" ref="tablet>portfolio:drawings---doodles"/>
+    <file name="bfett86x150.jpg" crc="4254823982" seo="true" ref="tablet>portfolio"/>
+    <file name="chewbacca94x150.jpg" crc="4196246491" seo="true" ref="tablet>portfolio"/>
+    <file name="arab-crop-u11718.jpg" crc="387541066" ref="tablet>portfolio"/>
+    <file name="roscoe150x173.jpg" crc="4046983054" seo="true" ref="tablet>portfolio"/>
+    <file name="snail170x150.jpg" crc="4095711832" seo="true" ref="tablet>portfolio"/>
+    <file name="capture.jpg" crc="4090235137" seo="true" ref="tablet>portfolio"/>
+    <file name="goblinangle.jpg" crc="113405899" seo="true" ref="tablet>portfolio"/>
+    <file name="manbird.jpg" crc="73009250" seo="true" ref="tablet>portfolio"/>
+    <file name="butterflyvalve.jpg" crc="4148518077" seo="true" ref="tablet>portfolio"/>
+    <file name="clamp.jpg" crc="34781119" seo="true" ref="tablet>portfolio"/>
+    <file name="spring.jpg" crc="71243067" seo="true" ref="tablet>portfolio"/>
+    <file name="capture156x150.jpg" crc="4080355941" seo="true" ref="tablet>portfolio"/>
+    <file name="goblinangle160x150.jpg" crc="4199309054" seo="true" ref="tablet>portfolio"/>
+    <file name="manbird150x99.jpg" crc="108999513" seo="true" ref="tablet>portfolio"/>
+    <file name="butterflyvalve156x150.jpg" crc="3960223514" seo="true" ref="tablet>portfolio"/>
+    <file name="clamp160x150.jpg" crc="219911748" seo="true" ref="tablet>portfolio"/>
+    <file name="spring110x150.jpg" crc="370287430" seo="true" ref="tablet>portfolio"/>
+    <file name="songofstorms510x134.png" crc="3932605526" seo="true" ref="tablet>my-story"/>
+    <file name="unnamed.jpg" crc="3797029482" ref="tablet>my-story:about"/>
+    <file name="img_20151224_141721-u2703-fr.jpg" crc="4076697008" ref="tablet>my-story"/>
+    <file name="u4117-17.png" crc="3967881782" ref="tablet>contact"/>
+    <file name="u4117-17-r.png" crc="298116894" ref="tablet>contact"/>
+    <file name="u4117-17-m.png" crc="298116894" ref="tablet>contact"/>
+    <file name="u4117-17-fs.png" crc="3967881782" ref="tablet>contact"/>
+    <file name="flowerrounded2.png" crc="276497506" seo="true" ref="portfolio:about:contact:drawings---doodles:3d-models:game-design:index"/>
+    <file name="heart.png" crc="3867329174" seo="true" ref="portfolio:about:contact:drawings---doodles:3d-models:game-design:index"/>
+    <file name="sketch1403310580006.png" crc="110515056" ref="portfolio"/>
+    <file name="monsterface.jpg" crc="346212953" ref="portfolio"/>
+    <file name="arrows-mn_arrow_left white.png" crc="17866525" ref="portfolio:about:contact:drawings---doodles:3d-models:game-design"/>
+    <file name="snapchat-961954948657557882.jpg" crc="122674961" ref="about"/>
+    <file name="snapchat-37815170972364814772.jpg" crc="4109804459" ref="about"/>
+    <file name="1400104493197.jpg" crc="3772362136" ref="about"/>
+    <file name="songofstorms.png" crc="364148068" seo="true" ref="about"/>
+    <file name="u1130-17.png" crc="3967881782" ref="contact"/>
+    <file name="u1130-17-r.png" crc="298116894" ref="contact"/>
+    <file name="u1130-17-m.png" crc="298116894" ref="contact"/>
+    <file name="u1130-17-fs.png" crc="3967881782" ref="contact"/>
+    <file name="arab-crop-u5462.jpg" crc="3833337531" ref="drawings---doodles"/>
+    <file name="roscoe300x346.jpg" crc="3828309370" seo="true" ref="drawings---doodles"/>
+    <file name="snail340x300.jpg" crc="428596828" seo="true" ref="drawings---doodles"/>
+    <file name="bfett272x479.jpg" crc="456431322" seo="true" ref="drawings---doodles"/>
+    <file name="bfett171x300.jpg" crc="95934834" seo="true" ref="drawings---doodles"/>
+    <file name="chewbacca187x300.jpg" crc="3961458927" seo="true" ref="drawings---doodles"/>
+    <file name="capture2.jpg" crc="3920794945" seo="true" ref="3d-models"/>
+    <file name="goblinangle2.jpg" crc="4164859903" seo="true" ref="3d-models"/>
+    <file name="manbird2.jpg" crc="73009250" seo="true" ref="3d-models"/>
+    <file name="capture311x300.jpg" crc="4059423053" seo="true" ref="3d-models"/>
+    <file name="goblinangle320x300.jpg" crc="442903768" seo="true" ref="3d-models"/>
+    <file name="manbird300x198.jpg" crc="113313993" seo="true" ref="3d-models"/>
+    <file name="butterflyvalve2.jpg" crc="4222212500" seo="true" ref="3d-models"/>
+    <file name="clamp2.jpg" crc="195694141" seo="true" ref="3d-models"/>
+    <file name="spring2.jpg" crc="120918628" seo="true" ref="3d-models"/>
+    <file name="butterflyvalve312x300.jpg" crc="496006239" seo="true" ref="3d-models"/>
+    <file name="clamp319x300.jpg" crc="3884249570" seo="true" ref="3d-models"/>
+    <file name="spring219x300.jpg" crc="3914657482" seo="true" ref="3d-models"/>
+    <file name="chihuahua.png" crc="3863108329" seo="true" ref="game-design"/>
+    <file name="brickb208x346.jpg" crc="3785982516" seo="true" ref="game-design"/>
+    <file name="pinetree.png" crc="475225403" seo="true" ref="game-design"/>
+    <file name="img_20151224_141721.jpg" crc="180294871" seo="true" ref="index"/>
+    <file name="lips.png" crc="4159890802" seo="true" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4086350536" ref="tablet>portfolio:tablet>index:tablet>my-story:tablet>contact"/>
+      <file name="portfolio.css" crc="253076021" ref="tablet>portfolio"/>
+      <file name="index.css" crc="4176998495" ref="tablet>index"/>
+      <file name="my-story.css" crc="22791061" ref="tablet>my-story"/>
+      <file name="contact.css" crc="4120092106" ref="tablet>contact"/>
+    </folder>
+    <file name="index.html" crc="4190940445" seo="true" mt="1456529649879" redirect="true"/>
+    <file name="portfolio.html" crc="342800193" seo="true" mt="1456531915844" redirect="true"/>
+    <file name="my-story.html" crc="3802515298" seo="true" mt="1456537456166" redirect="true"/>
+    <file name="contact.html" crc="3818846671" seo="true" mt="1456538657026" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="196500288" ref="phone>contact:phone>index:phone>portfolio:phone>about"/>
+      <file name="contact.css" crc="4131985531" ref="phone>contact"/>
+      <file name="index.css" crc="4128587944" ref="phone>index"/>
+      <file name="portfolio.css" crc="136320792" ref="phone>portfolio"/>
+      <file name="about.css" crc="93560274" ref="phone>about"/>
+    </folder>
+    <file name="index.html" crc="3950626231" seo="true" mt="1456466741909" redirect="true"/>
+    <file name="portfolio.html" crc="43315535" seo="true" mt="1456531979428" redirect="true"/>
+    <file name="about.html" crc="416281506" seo="true" mt="1456537456167" redirect="true"/>
+    <file name="contact.html" crc="3798897829" seo="true" mt="1456538194837" redirect="true"/>
+  </folder>
+  <file name="portfolio.html" crc="310449409" seo="true" mt="1456530859877" redirect="true"/>
+  <file name="about.html" crc="4116989758" seo="true" mt="1456537456165" redirect="true"/>
+  <file name="contact.html" crc="198783842" seo="true" mt="1456538538543" redirect="true"/>
+  <file name="drawings---doodles.html" crc="400217929" seo="true" mt="1456532089261" redirect="true"/>
+  <file name="3d-models.html" crc="227929355" seo="true" mt="1456530859872" redirect="true"/>
+  <file name="game-design.html" crc="448707030" seo="true" mt="1456532447160" redirect="true"/>
+  <file name="index.html" crc="3869090064" seo="true" mt="1456390713879" redirect="true"/>
+</manifest>
