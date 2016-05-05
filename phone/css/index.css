@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #00001C;
-	background-color: #A2191B;
+	color: #00000B;
+	background-color: #365EE5;
 }
 
 #page
@@ -320,11 +320,11 @@
 	border-width: 3px;
 	border-color: #3E3E3E;
 	background-color: #FFFFFF;
-	line-height: 36px;
-	font-size: 30px;
-	color: #3E3E3E;
-	letter-spacing: 3px;
 	text-align: center;
+	color: #3E3E3E;
+	font-size: 30px;
+	letter-spacing: 3px;
+	line-height: 36px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	position: relative;
@@ -381,11 +381,11 @@
 	border-width: 3px;
 	border-color: #3E3E3E;
 	background-color: #FFFFFF;
-	line-height: 36px;
-	font-size: 30px;
-	color: #3E3E3E;
-	letter-spacing: 3px;
 	text-align: center;
+	color: #3E3E3E;
+	font-size: 30px;
+	letter-spacing: 3px;
+	line-height: 36px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	position: relative;
