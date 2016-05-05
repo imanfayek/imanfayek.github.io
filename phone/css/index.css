@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #00000B;
-	background-color: #365EE5;
+	color: #0000FA;
+	background-color: #6C3EA1;
 }
 
 #page
@@ -321,10 +321,10 @@
 	border-color: #3E3E3E;
 	background-color: #FFFFFF;
 	text-align: center;
-	color: #3E3E3E;
 	font-size: 30px;
-	letter-spacing: 3px;
 	line-height: 36px;
+	color: #3E3E3E;
+	letter-spacing: 3px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	position: relative;
@@ -382,10 +382,10 @@
 	border-color: #3E3E3E;
 	background-color: #FFFFFF;
 	text-align: center;
-	color: #3E3E3E;
 	font-size: 30px;
-	letter-spacing: 3px;
 	line-height: 36px;
+	color: #3E3E3E;
+	letter-spacing: 3px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	position: relative;

@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="imanfayek.com" resolutions="1x" timestamp="1462431998880">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="imanfayek.com" resolutions="1x" timestamp="1465120157385">
   <folder name="css">
     <file name="site_global.css" crc="216051557"/>
-    <file name="master_b-master-copy.css" crc="4197732728" ref="traditional-art:portfolio:digital-art:index:about:game-design:contact"/>
-    <file name="traditional-art.css" crc="501789984" ref="traditional-art"/>
+    <file name="master_b-master-copy.css" crc="3886088310" ref="contact:traditional-art:digital-art:game-design:portfolio:index:about"/>
+    <file name="contact.css" crc="4251472197" ref="contact"/>
+    <file name="traditional-art.css" crc="3809917744" ref="traditional-art"/>
+    <file name="digital-art.css" crc="4226128703" ref="digital-art"/>
+    <file name="game-design.css" crc="4155330130" ref="game-design"/>
     <file name="portfolio.css" crc="4095324232" ref="portfolio"/>
-    <file name="digital-art.css" crc="4259146024" ref="digital-art"/>
-    <file name="index.css" crc="3958732521" ref="index"/>
-    <file name="about.css" crc="3894721709" ref="about"/>
-    <file name="game-design.css" crc="453794160" ref="game-design"/>
-    <file name="contact.css" crc="398081733" ref="contact"/>
+    <file name="index.css" crc="3875682137" ref="index"/>
+    <file name="about.css" crc="63348222" ref="about"/>
   </folder>
   <folder name="fonts">
     <file name="imanhandwriting-regular.woff" crc="208314447"/>
@@ -68,14 +68,14 @@
     <file name="arabamerican.jpg" crc="192519044" seo="true" ref="tablet>portfolio:traditional-art"/>
     <file name="dogs.jpg" crc="96989468" seo="true" ref="tablet>portfolio:traditional-art"/>
     <file name="snail.jpg" crc="4240652116" seo="true" ref="tablet>portfolio:traditional-art"/>
-    <file name="boba250x440.jpg" crc="191042299" seo="true" ref="tablet>portfolio"/>
+    <file name="boba250x441.jpg" crc="191042299" seo="true" ref="tablet>portfolio"/>
     <file name="chewie.jpg" crc="344581936" seo="true" ref="tablet>portfolio:traditional-art"/>
     <file name="imandoodleportrait268x440.jpg" crc="326514126" seo="true" ref="tablet>portfolio"/>
     <file name="snaildoodlelq.jpg" crc="119994656" seo="true" ref="tablet>portfolio:traditional-art"/>
-    <file name="arabamerican-crop-u14372.jpg" crc="4098399899" ref="tablet>portfolio"/>
+    <file name="arabamerican-crop-u14372.jpg" crc="458337448" ref="tablet>portfolio"/>
     <file name="dogs150x173.jpg" crc="3760957609" seo="true" ref="tablet>portfolio"/>
     <file name="snail170x150.jpg" crc="321002667" seo="true" ref="tablet>portfolio"/>
-    <file name="boba-crop-u14452.jpg" crc="432006190" ref="tablet>portfolio"/>
+    <file name="boba-crop-u14452.jpg" crc="4238535766" ref="tablet>portfolio"/>
     <file name="chewie-crop-u14472.jpg" crc="84360232" ref="tablet>portfolio"/>
     <file name="imandoodleportrait-crop-u14492.jpg" crc="3957421986" ref="tablet>portfolio"/>
     <file name="snaildoodlelq166x150.jpg" crc="4027336949" seo="true" ref="tablet>portfolio"/>
@@ -156,35 +156,35 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="master_a-master.css" crc="4227345785" ref="tablet>my-story:tablet>contact:tablet>portfolio:tablet>index"/>
-      <file name="my-story.css" crc="4135437196" ref="tablet>my-story"/>
-      <file name="contact.css" crc="3909444362" ref="tablet>contact"/>
-      <file name="portfolio.css" crc="252976510" ref="tablet>portfolio"/>
+      <file name="master_a-master.css" crc="4227345785" ref="tablet>index:tablet>portfolio:tablet>my-story:tablet>contact"/>
       <file name="index.css" crc="4176998495" ref="tablet>index"/>
+      <file name="portfolio.css" crc="20464560" ref="tablet>portfolio"/>
+      <file name="my-story.css" crc="3988620412" ref="tablet>my-story"/>
+      <file name="contact.css" crc="4092925015" ref="tablet>contact"/>
     </folder>
     <file name="index.html" crc="4206015836" seo="true" mt="1456529649879" redirect="true"/>
-    <file name="portfolio.html" crc="245001750" seo="true" mt="1465109811342" redirect="true"/>
+    <file name="portfolio.html" crc="198739609" seo="true" mt="1465109811342" redirect="true"/>
     <file name="my-story.html" crc="309808540" seo="true" mt="1462431982210" redirect="true"/>
     <file name="contact.html" crc="462954483" seo="true" mt="1456542697197" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="100457396" ref="phone>index:phone>portfolio:phone>about:phone>contact"/>
-      <file name="index.css" crc="188112613" ref="phone>index"/>
-      <file name="portfolio.css" crc="115097873" ref="phone>portfolio"/>
-      <file name="about.css" crc="3990388596" ref="phone>about"/>
-      <file name="contact.css" crc="4098658443" ref="phone>contact"/>
+      <file name="master_a-master.css" crc="286892219" ref="phone>about:phone>index:phone>contact:phone>portfolio"/>
+      <file name="about.css" crc="93560274" ref="phone>about"/>
+      <file name="index.css" crc="4201397921" ref="phone>index"/>
+      <file name="contact.css" crc="366626078" ref="phone>contact"/>
+      <file name="portfolio.css" crc="465447573" ref="phone>portfolio"/>
     </folder>
     <file name="index.html" crc="4094370664" seo="true" mt="1456466741909" redirect="true"/>
     <file name="portfolio.html" crc="199474461" seo="true" mt="1465080528335" redirect="true"/>
     <file name="about.html" crc="115979419" seo="true" mt="1465080499841" redirect="true"/>
     <file name="contact.html" crc="343029799" seo="true" mt="1456541600951" redirect="true"/>
   </folder>
-  <file name="portfolio.html" crc="4237714756" seo="true" mt="1465109924293" redirect="true"/>
-  <file name="about.html" crc="34130532" seo="true" mt="1465080433579" redirect="true"/>
-  <file name="contact.html" crc="282799476" seo="true" mt="1462235913210" redirect="true"/>
-  <file name="traditional-art.html" crc="3981784227" seo="true" mt="1465109611036" redirect="true"/>
-  <file name="digital-art.html" crc="4029920211" seo="true" mt="1465108226542" redirect="true"/>
-  <file name="game-design.html" crc="4242898318" seo="true" mt="1465080675589" redirect="true"/>
-  <file name="index.html" crc="312549258" seo="true" mt="1462431829236" redirect="true"/>
+  <file name="portfolio.html" crc="3836661647" seo="true" mt="1465109924293" redirect="true"/>
+  <file name="about.html" crc="534914584" seo="true" mt="1465080433579" redirect="true"/>
+  <file name="contact.html" crc="384202411" seo="true" mt="1465119163868" redirect="true"/>
+  <file name="traditional-art.html" crc="3835583596" seo="true" mt="1465119955691" redirect="true"/>
+  <file name="digital-art.html" crc="4217805090" seo="true" mt="1465120120765" redirect="true"/>
+  <file name="game-design.html" crc="4029972659" seo="true" mt="1465080675589" redirect="true"/>
+  <file name="index.html" crc="89866819" seo="true" mt="1465119112544" redirect="true"/>
 </manifest>

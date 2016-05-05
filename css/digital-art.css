@@ -4,8 +4,8 @@
 
 .version.digital_art /* version checker */
 {
-	color: #0000FD;
-	background-color: #DD6928;
+	color: #0000FB;
+	background-color: #E59B3F;
 }
 
 #page
@@ -42,7 +42,7 @@
 
 #u12336
 {
-	z-index: 206;
+	z-index: 205;
 	width: 40px;
 	position: relative;
 	margin-right: -10000px;
@@ -50,7 +50,7 @@
 
 #u12332-4
 {
-	z-index: 177;
+	z-index: 176;
 	width: 232px;
 	min-height: 27px;
 	position: relative;
@@ -60,7 +60,7 @@
 
 #u12484
 {
-	z-index: 208;
+	z-index: 207;
 	width: 40px;
 	position: relative;
 	margin-right: -10000px;
@@ -69,7 +69,7 @@
 
 #menuu12345
 {
-	z-index: 181;
+	z-index: 180;
 	width: 571px;
 	margin-left: 213px;
 	margin-top: 5px;
@@ -309,7 +309,7 @@
 
 #u12758
 {
-	z-index: 176;
+	z-index: 175;
 	width: 336px;
 	height: 522px;
 	position: fixed;
@@ -319,12 +319,12 @@
 
 #u5217-4
 {
-	z-index: 38;
+	z-index: 37;
 	width: 741px;
 	min-height: 91px;
 	background-color: transparent;
-	font-size: 100px;
 	line-height: 85px;
+	font-size: 100px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-left: 199px;
@@ -334,12 +334,12 @@
 
 #u14243-4
 {
-	z-index: 159;
+	z-index: 158;
 	width: 108px;
 	min-height: 91px;
 	background-color: transparent;
-	font-size: 72px;
 	line-height: 61px;
+	font-size: 72px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-left: 199px;
@@ -349,7 +349,7 @@
 
 #u14058-6
 {
-	z-index: 78;
+	z-index: 77;
 	width: 575px;
 	min-height: 93px;
 	background-color: transparent;
@@ -382,7 +382,7 @@
 
 #u12616
 {
-	z-index: 167;
+	z-index: 166;
 	height: 103px;
 	position: fixed;
 	bottom: 0px;
@@ -390,12 +390,12 @@
 
 #u12616-bw
 {
-	z-index: 167;
+	z-index: 166;
 }
 
 #u12325-4
 {
-	z-index: 168;
+	z-index: 167;
 	width: 454px;
 	position: fixed;
 	bottom: 29px;
@@ -404,7 +404,7 @@
 
 #u12769
 {
-	z-index: 172;
+	z-index: 171;
 	width: 50px;
 	height: 50px;
 	position: fixed;
@@ -414,7 +414,7 @@
 
 #u12796
 {
-	z-index: 173;
+	z-index: 172;
 	width: 50px;
 	height: 50px;
 	position: fixed;
@@ -424,7 +424,7 @@
 
 #u12807
 {
-	z-index: 174;
+	z-index: 173;
 	width: 50px;
 	height: 50px;
 	position: fixed;
@@ -434,7 +434,7 @@
 
 #u12818
 {
-	z-index: 175;
+	z-index: 174;
 	width: 50px;
 	height: 50px;
 	position: fixed;
@@ -444,7 +444,7 @@
 
 #slideshowu14059
 {
-	z-index: 84;
+	z-index: 83;
 	width: 0.01px;
 	height: 1277px;
 	margin-left: 195px;
@@ -468,12 +468,12 @@
 
 #u14088popup
 {
-	z-index: 85;
+	z-index: 84;
 }
 
 #u14103
 {
-	z-index: 86;
+	z-index: 85;
 	width: 702px;
 	height: 527px;
 	background-color: transparent;
@@ -491,7 +491,7 @@
 
 #u14097
 {
-	z-index: 88;
+	z-index: 87;
 	width: 702px;
 	height: 527px;
 	background-color: transparent;
@@ -503,7 +503,7 @@
 
 #u14099
 {
-	z-index: 90;
+	z-index: 89;
 	width: 702px;
 	height: 527px;
 	background-color: transparent;
@@ -515,7 +515,7 @@
 
 #u14091
 {
-	z-index: 92;
+	z-index: 91;
 	width: 702px;
 	height: 527px;
 	background-color: transparent;
@@ -533,7 +533,7 @@
 
 #u14095
 {
-	z-index: 94;
+	z-index: 93;
 	width: 702px;
 	height: 527px;
 	background-color: transparent;
@@ -545,7 +545,7 @@
 
 #u14089
 {
-	z-index: 96;
+	z-index: 95;
 	width: 702px;
 	height: 527px;
 	background-color: transparent;
@@ -557,7 +557,7 @@
 
 #u14093
 {
-	z-index: 98;
+	z-index: 97;
 	width: 702px;
 	height: 527px;
 	background-color: transparent;
@@ -574,7 +574,7 @@
 
 #u14101
 {
-	z-index: 100;
+	z-index: 99;
 	width: 702px;
 	height: 527px;
 	background-color: transparent;
@@ -601,12 +601,12 @@
 
 #u14071popup
 {
-	z-index: 102;
+	z-index: 101;
 }
 
 #u14084
 {
-	z-index: 103;
+	z-index: 102;
 	width: 300px;
 	height: 300px;
 	border-width: 0px;
@@ -619,7 +619,7 @@
 
 #u14076
 {
-	z-index: 105;
+	z-index: 104;
 	width: 300px;
 	height: 300px;
 	border-width: 0px;
@@ -632,7 +632,7 @@
 
 #u14082
 {
-	z-index: 107;
+	z-index: 106;
 	width: 300px;
 	height: 300px;
 	border-width: 0px;
@@ -646,7 +646,7 @@
 
 #u14072
 {
-	z-index: 109;
+	z-index: 108;
 	width: 300px;
 	height: 300px;
 	border-width: 0px;
@@ -666,7 +666,7 @@
 
 #u14074
 {
-	z-index: 111;
+	z-index: 110;
 	width: 300px;
 	height: 300px;
 	border-width: 0px;
@@ -680,7 +680,7 @@
 
 #u14078
 {
-	z-index: 113;
+	z-index: 112;
 	width: 300px;
 	height: 300px;
 	border-width: 0px;
@@ -705,7 +705,7 @@
 
 #u14086
 {
-	z-index: 115;
+	z-index: 114;
 	width: 300px;
 	height: 300px;
 	border-width: 0px;
@@ -719,7 +719,7 @@
 
 #u14080
 {
-	z-index: 117;
+	z-index: 116;
 	width: 300px;
 	height: 300px;
 	border-width: 0px;
@@ -759,19 +759,19 @@
 
 #u14062popup
 {
-	z-index: 119;
+	z-index: 118;
 }
 
 #u14064-4
 {
-	z-index: 120;
+	z-index: 119;
 	width: 702px;
 	min-height: 92px;
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #3E3E3E;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	letter-spacing: 1px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
@@ -780,14 +780,14 @@
 
 #u14068-4
 {
-	z-index: 124;
+	z-index: 123;
 	width: 702px;
 	min-height: 92px;
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #3E3E3E;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	letter-spacing: 1px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
@@ -796,14 +796,14 @@
 
 #u14066-4
 {
-	z-index: 128;
+	z-index: 127;
 	width: 702px;
 	min-height: 92px;
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #3E3E3E;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	letter-spacing: 1px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
@@ -812,14 +812,14 @@
 
 #u14067-4
 {
-	z-index: 132;
+	z-index: 131;
 	width: 702px;
 	min-height: 92px;
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #3E3E3E;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	letter-spacing: 1px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
@@ -828,14 +828,14 @@
 
 #u14070-4
 {
-	z-index: 136;
+	z-index: 135;
 	width: 702px;
 	min-height: 92px;
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #3E3E3E;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	letter-spacing: 1px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
@@ -844,14 +844,14 @@
 
 #u14065-4
 {
-	z-index: 140;
+	z-index: 139;
 	width: 702px;
 	min-height: 92px;
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #3E3E3E;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	letter-spacing: 1px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
@@ -860,14 +860,14 @@
 
 #u14063-4
 {
-	z-index: 144;
+	z-index: 143;
 	width: 702px;
 	min-height: 92px;
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #3E3E3E;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	letter-spacing: 1px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
@@ -876,14 +876,14 @@
 
 #u14069-4
 {
-	z-index: 148;
+	z-index: 147;
 	width: 702px;
 	min-height: 92px;
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #3E3E3E;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	letter-spacing: 1px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
@@ -901,8 +901,8 @@
 	width: 70px;
 	min-height: 589px;
 	text-align: center;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	top: 53px;
@@ -912,7 +912,7 @@
 
 #u14105-3popup
 {
-	z-index: 152;
+	z-index: 151;
 }
 
 #u14108-3
@@ -921,8 +921,8 @@
 	width: 70px;
 	min-height: 589px;
 	text-align: center;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	top: 53px;
@@ -946,7 +946,7 @@
 
 #u14108-3popup
 {
-	z-index: 155;
+	z-index: 154;
 }
 
 #u14106
@@ -986,12 +986,12 @@
 
 #u14246-4
 {
-	z-index: 163;
+	z-index: 162;
 	width: 108px;
 	min-height: 91px;
 	background-color: transparent;
-	font-size: 72px;
 	line-height: 61px;
+	font-size: 72px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-left: 199px;
@@ -1001,12 +1001,12 @@
 
 #u5215-4
 {
-	z-index: 42;
+	z-index: 41;
 	width: 741px;
 	min-height: 62px;
 	background-color: transparent;
-	font-size: 30px;
 	line-height: 39px;
+	font-size: 30px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-left: 199px;
@@ -1178,6 +1178,15 @@
 	padding-bottom: 52px;
 }
 
+#u5185
+{
+	position: absolute;
+	width: 700px;
+	background-color: transparent;
+	top: 734px;
+	left: -1094px;
+}
+
 #u5185popup
 {
 	z-index: 18;
@@ -1189,26 +1198,26 @@
 	width: 700px;
 	min-height: 84px;
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #3E3E3E;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	letter-spacing: 1px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
 	position: relative;
 }
 
-#u8170-4
+#u8170-3
 {
 	z-index: 23;
 	width: 700px;
 	min-height: 84px;
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #3E3E3E;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	letter-spacing: 1px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
@@ -1217,14 +1226,14 @@
 
 #u8190-4
 {
-	z-index: 27;
+	z-index: 26;
 	width: 700px;
 	min-height: 84px;
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #3E3E3E;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	letter-spacing: 1px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
@@ -1237,8 +1246,8 @@
 	width: 70px;
 	min-height: 592px;
 	text-align: center;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	top: 143px;
@@ -1248,7 +1257,7 @@
 
 #u5183-3popup
 {
-	z-index: 31;
+	z-index: 30;
 }
 
 #u5211-3
@@ -1257,8 +1266,8 @@
 	width: 70px;
 	min-height: 592px;
 	text-align: center;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	top: 142px;
@@ -1268,7 +1277,7 @@
 
 #u5211-3popup
 {
-	z-index: 34;
+	z-index: 33;
 }
 
 #u5214
@@ -1285,12 +1294,12 @@
 
 #u13161-4
 {
-	z-index: 74;
+	z-index: 73;
 	width: 741px;
 	min-height: 62px;
 	background-color: transparent;
-	font-size: 30px;
 	line-height: 39px;
+	font-size: 30px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-left: 199px;
@@ -1300,7 +1309,7 @@
 
 #slideshowu13136
 {
-	z-index: 47;
+	z-index: 46;
 	width: 0.01px;
 	height: 363px;
 	margin-left: 252px;
@@ -1324,12 +1333,12 @@
 
 #u13138popup
 {
-	z-index: 48;
+	z-index: 47;
 }
 
 #u13576
 {
-	z-index: 49;
+	z-index: 48;
 	width: 702px;
 	height: 530px;
 	background-color: transparent;
@@ -1341,7 +1350,7 @@
 
 #u13596
 {
-	z-index: 51;
+	z-index: 50;
 	width: 702px;
 	height: 530px;
 	background-color: transparent;
@@ -1369,12 +1378,12 @@
 
 #u13145popup
 {
-	z-index: 53;
+	z-index: 52;
 }
 
 #u13582
 {
-	z-index: 54;
+	z-index: 53;
 	width: 300px;
 	height: 300px;
 	border-width: 0px;
@@ -1387,7 +1396,7 @@
 
 #u13602
 {
-	z-index: 56;
+	z-index: 55;
 	width: 300px;
 	height: 300px;
 	border-width: 0px;
@@ -1409,7 +1418,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u5185,#u13152
+#u13152
 {
 	position: absolute;
 	width: 700px;
@@ -1420,19 +1429,19 @@
 
 #u13152popup
 {
-	z-index: 58;
+	z-index: 57;
 }
 
 #u13588-4
 {
-	z-index: 59;
+	z-index: 58;
 	width: 700px;
 	min-height: 84px;
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #3E3E3E;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	letter-spacing: 1px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
@@ -1441,14 +1450,14 @@
 
 #u13608-4
 {
-	z-index: 63;
+	z-index: 62;
 	width: 700px;
 	min-height: 84px;
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #3E3E3E;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	letter-spacing: 1px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
@@ -1461,8 +1470,8 @@
 	width: 70px;
 	min-height: 592px;
 	text-align: center;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	top: 143px;
@@ -1472,7 +1481,7 @@
 
 #u13158-3popup
 {
-	z-index: 67;
+	z-index: 66;
 }
 
 #u13157-3
@@ -1481,8 +1490,8 @@
 	width: 70px;
 	min-height: 592px;
 	text-align: center;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	top: 142px;
@@ -1506,7 +1515,7 @@
 
 #u13157-3popup
 {
-	z-index: 70;
+	z-index: 69;
 }
 
 #u13159
@@ -1536,7 +1545,7 @@
 
 #u5216
 {
-	z-index: 46;
+	z-index: 45;
 	width: 62px;
 	height: 62px;
 	position: fixed;

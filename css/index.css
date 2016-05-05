@@ -4,39 +4,36 @@
 
 .version.index /* version checker */
 {
-	color: #0000EB;
-	background-color: #F576E9;
+	color: #0000E7;
+	background-color: #023759;
 }
 
 #page
 {
 	z-index: 1;
-	width: 960px;
-	min-height: 674px;
+	width: 584px;
+	min-height: 557px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
+	padding-left: 200px;
+	padding-right: 176px;
+	padding-bottom: 117px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#page_position_content
-{
-	padding-bottom: 117px;
-	width: 0.01px;/* should not cover content below */
-}
-
 #top
 {
-	margin-left: 487px;
+	margin-left: 287px;
 	position: relative;
 }
 
 #pu12336
 {
 	width: 0.01px;
-	margin-left: 287px;
+	margin-left: 87px;
 	margin-top: 28px;
 }
 
@@ -71,7 +68,7 @@
 {
 	z-index: 22;
 	width: 571px;
-	margin-left: 213px;
+	margin-left: 13px;
 	margin-top: 5px;
 	position: relative;
 }
@@ -325,11 +322,25 @@
 	border-style: solid;
 	border-width: 5px;
 	border-color: #000000;
-	margin-left: 353px;
-	margin-top: 131px;
+	margin-left: 153px;
+	margin-top: 53px;
 	position: relative;
 	background: transparent url("../images/imansolo.gif") no-repeat center center;
 	background-size: cover;
+}
+
+#u14779-4
+{
+	z-index: 4;
+	width: 575px;
+	min-height: 62px;
+	background-color: transparent;
+	line-height: 39px;
+	font-size: 30px;
+	font-family: '__ImanHandwriting_5';
+	font-weight: 400;
+	margin-top: 21px;
+	position: relative;
 }
 
 #u12616
@@ -343,38 +354,6 @@
 #u12616-bw
 {
 	z-index: 8;
-}
-
-#u14779-4
-{
-	z-index: 4;
-	width: 575px;
-	min-height: 62px;
-	background-color: transparent;
-	font-size: 30px;
-	line-height: 39px;
-	font-family: '__ImanHandwriting_5';
-	font-weight: 400;
-	margin-left: 200px;
-	margin-top: 21px;
-	position: relative;
-}
-
-#pu12325-4
-{
-	width: 0.01px;
-	padding-bottom: 50px;
-	margin-left: -75px;
-	margin-top: -61px;
-}
-
-#u12325-4
-{
-	z-index: 9;
-	width: 454px;
-	position: fixed;
-	bottom: 29px;
-	left: 305px;
 }
 
 #u12769
@@ -415,6 +394,15 @@
 	position: fixed;
 	bottom: 29px;
 	left: 235px;
+}
+
+#u12325-4
+{
+	z-index: 9;
+	width: 454px;
+	position: fixed;
+	bottom: 29px;
+	left: 305px;
 }
 
 #muse_css_mq,.html

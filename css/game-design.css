@@ -4,8 +4,8 @@
 
 .version.game_design /* version checker */
 {
-	color: #00001B;
-	background-color: #0C5970;
+	color: #0000F7;
+	background-color: #AD4E52;
 }
 
 #page
@@ -324,8 +324,8 @@
 	width: 679px;
 	min-height: 92px;
 	background-color: transparent;
-	font-size: 100px;
 	line-height: 85px;
+	font-size: 100px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-left: 231px;
@@ -419,8 +419,8 @@
 	width: 575px;
 	min-height: 101px;
 	background-color: transparent;
-	font-size: 30px;
 	line-height: 53px;
+	font-size: 30px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-left: 227px;
@@ -441,8 +441,8 @@
 	width: 397px;
 	min-height: 101px;
 	background-color: transparent;
-	font-size: 30px;
 	line-height: 51px;
+	font-size: 30px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	position: relative;
@@ -487,8 +487,8 @@
 	width: 319px;
 	min-height: 220px;
 	background-color: transparent;
-	font-size: 30px;
 	line-height: 52px;
+	font-size: 30px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	position: relative;
@@ -535,8 +535,8 @@
 	width: 468px;
 	min-height: 101px;
 	background-color: transparent;
-	font-size: 30px;
 	line-height: 53px;
+	font-size: 30px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	position: relative;
@@ -576,8 +576,8 @@
 	width: 257px;
 	min-height: 249px;
 	background-color: transparent;
-	font-size: 30px;
 	line-height: 51px;
+	font-size: 30px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	position: relative;

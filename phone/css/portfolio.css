@@ -4,8 +4,8 @@
 
 .version.portfolio /* version checker */
 {
-	color: #000006;
-	background-color: #DC4111;
+	color: #00001B;
+	background-color: #BE2A95;
 }
 
 #page
@@ -91,8 +91,8 @@
 	width: 330px;
 	min-height: 81px;
 	background-color: transparent;
-	font-size: 72px;
 	line-height: 61px;
+	font-size: 72px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	position: relative;
@@ -305,8 +305,8 @@
 	width: 320px;
 	min-height: 90px;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 31px;
+	font-size: 24px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-left: 15px;
@@ -542,9 +542,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #606060;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	color: #606060;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
@@ -560,9 +560,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #606060;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	color: #606060;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
@@ -578,9 +578,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #606060;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	color: #606060;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
@@ -596,9 +596,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #606060;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	color: #606060;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
@@ -614,9 +614,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #606060;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	color: #606060;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
@@ -631,9 +631,9 @@
 	border-width: 0px;
 	border-color: transparent;
 	padding: 10px;
-	color: #999999;
 	text-align: center;
 	font-size: 24px;
+	color: #999999;
 	line-height: 34px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
@@ -653,9 +653,9 @@
 	border-style: solid;
 	border-color: #AAAAAA;
 	padding: 10px;
-	color: #999999;
 	text-align: center;
 	font-size: 24px;
+	color: #999999;
 	line-height: 34px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;

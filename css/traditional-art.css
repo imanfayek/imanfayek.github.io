@@ -4,8 +4,8 @@
 
 .version.traditional_art /* version checker */
 {
-	color: #00001D;
-	background-color: #E8B520;
+	color: #0000E3;
+	background-color: #16BB30;
 }
 
 #page
@@ -320,8 +320,8 @@
 	width: 683px;
 	min-height: 145px;
 	background-color: transparent;
-	font-size: 100px;
 	line-height: 85px;
+	font-size: 100px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-left: 5px;
@@ -558,8 +558,8 @@
 	position: absolute;
 	width: 458px;
 	background-color: transparent;
-	top: 632px;
-	left: -1105px;
+	top: 702px;
+	left: -1082px;
 }
 
 #u7918popup
@@ -573,10 +573,10 @@
 	width: 458px;
 	min-height: 92px;
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #3E3E3E;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	letter-spacing: 1px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
@@ -589,10 +589,10 @@
 	width: 458px;
 	min-height: 92px;
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #3E3E3E;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	letter-spacing: 1px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
@@ -605,10 +605,10 @@
 	width: 458px;
 	min-height: 92px;
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #3E3E3E;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	letter-spacing: 1px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
@@ -621,10 +621,10 @@
 	width: 458px;
 	min-height: 92px;
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #3E3E3E;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	letter-spacing: 1px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
@@ -637,8 +637,8 @@
 	width: 70px;
 	min-height: 593px;
 	text-align: center;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	top: 107px;
@@ -657,8 +657,8 @@
 	width: 70px;
 	min-height: 593px;
 	text-align: center;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	top: 107px;
@@ -961,7 +961,7 @@
 	width: 702px;
 	background-color: transparent;
 	top: 641px;
-	left: -1110px;
+	left: -1088px;
 }
 
 #u5070popup
@@ -975,10 +975,10 @@
 	width: 702px;
 	min-height: 92px;
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #3E3E3E;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	letter-spacing: 1px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
@@ -991,10 +991,10 @@
 	width: 702px;
 	min-height: 92px;
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #3E3E3E;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	letter-spacing: 1px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
@@ -1007,10 +1007,10 @@
 	width: 702px;
 	min-height: 92px;
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #3E3E3E;
-	font-size: 24px;
 	line-height: 34px;
+	font-size: 24px;
+	letter-spacing: 1px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-right: -10000px;
@@ -1023,8 +1023,8 @@
 	width: 70px;
 	min-height: 589px;
 	text-align: center;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	top: 53px;
@@ -1043,8 +1043,8 @@
 	width: 70px;
 	min-height: 589px;
 	text-align: center;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	top: 53px;

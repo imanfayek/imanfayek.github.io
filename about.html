@@ -19,8 +19,8 @@
   <title>About</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?216051557"/>
-  <link rel="stylesheet" type="text/css" href="css/master_b-master-copy.css?4197732728"/>
-  <link rel="stylesheet" type="text/css" href="css/about.css?3894721709" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_b-master-copy.css?3886088310"/>
+  <link rel="stylesheet" type="text/css" href="css/about.css?63348222" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
@@ -189,7 +189,7 @@ Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-$('#u1101').registerOpacityScrollEffect([{"opacity":0,"in":[-Infinity,693.12],"fade":200},{"opacity":100,"in":[693.12,693.12]},{"opacity":100,"in":[693.12,Infinity],"fade":0}]);/* scroll effect */
+$('#u1101').registerOpacityScrollEffect([{"opacity":0,"fade":200,"in":[-Infinity,693.12]},{"opacity":100,"in":[693.12,693.12]},{"opacity":100,"fade":0,"in":[693.12,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 } catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }});

@@ -4,8 +4,8 @@
 
 .version.contact /* version checker */
 {
-	color: #0000E9;
-	background-color: #05630A;
+	color: #0000F3;
+	background-color: #F51457;
 }
 
 #page
@@ -313,8 +313,8 @@
 	width: 587px;
 	min-height: 138px;
 	background-color: transparent;
-	font-size: 100px;
 	line-height: 85px;
+	font-size: 100px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	position: relative;
@@ -329,8 +329,8 @@
 	width: 498px;
 	min-height: 49px;
 	background-color: transparent;
-	font-size: 30px;
 	line-height: 34px;
+	font-size: 30px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	position: relative;
@@ -344,9 +344,9 @@
 	width: 243px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 39px;
 	font-size: 30px;
 	letter-spacing: 1px;
-	line-height: 39px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-left: 252px;
@@ -361,9 +361,9 @@
 	width: 48px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 39px;
 	font-size: 30px;
 	letter-spacing: 1px;
-	line-height: 39px;
 	font-family: '__ImanHandwriting_5';
 	font-weight: 400;
 	margin-left: 340px;
