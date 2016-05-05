@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="imanfayek.com" resolutions="1x" timestamp="1465120157385">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="imanfayek.com" resolutions="1x" timestamp="1462444408975">
   <folder name="css">
     <file name="site_global.css" crc="216051557"/>
     <file name="master_b-master-copy.css" crc="3886088310" ref="contact:traditional-art:digital-art:game-design:portfolio:index:about"/>
@@ -107,7 +107,7 @@
     <file name="stonehouse150x150.jpg" crc="3922898758" seo="true" ref="tablet>portfolio"/>
     <file name="unnamed.jpg" crc="3797029482" ref="tablet>my-story:about"/>
     <file name="img_20151224_141721.jpg" crc="4076697008" ref="tablet>my-story"/>
-    <file name="b-master-copy-favicon.ico" crc="3819951078" ref="portfolio"/>
+    <file name="portfolio-favicon.ico" crc="135991530" ref="portfolio"/>
     <file name="heart.png" crc="3867329174" seo="true" ref="portfolio:about:contact:traditional-art:digital-art:game-design:index"/>
     <file name="imanface-01.svg" crc="4290862962" ref="portfolio"/>
     <file name="imanface-01_poster_u12601.png" crc="4254881539" ref="portfolio"/>
@@ -124,9 +124,12 @@
     <file name="linkedinwhite.svg" crc="4087297366" ref="portfolio"/>
     <file name="linkedinwhite_poster_u12821.png" crc="21833191" ref="portfolio"/>
     <file name="arrows-mn_arrow_left white.png" crc="17866525" ref="portfolio:about:contact:traditional-art:digital-art:game-design"/>
+    <file name="about-favicon.ico" crc="135991530" ref="about"/>
     <file name="snapchat-961954948657557882.jpg" crc="122674961" ref="about"/>
     <file name="snapchat-37815170972364814772.jpg" crc="4109804459" ref="about"/>
     <file name="1400104493197.jpg" crc="3772362136" ref="about"/>
+    <file name="contact-favicon.ico" crc="135991530" ref="contact"/>
+    <file name="traditional-art-favicon.ico" crc="135991530" ref="traditional-art"/>
     <file name="imandoodleportrait.jpg" crc="4076426058" seo="true" ref="traditional-art"/>
     <file name="boba302x531.jpg" crc="507946097" seo="true" ref="traditional-art"/>
     <file name="imandoodleportrait183x300.jpg" crc="110424262" seo="true" ref="traditional-art"/>
@@ -136,6 +139,7 @@
     <file name="arabamerican227x300.jpg" crc="173209549" seo="true" ref="traditional-art"/>
     <file name="dogs261x300.jpg" crc="3940142226" seo="true" ref="traditional-art"/>
     <file name="snail300x266.jpg" crc="3876792429" seo="true" ref="traditional-art"/>
+    <file name="digital-art-favicon.ico" crc="135991530" ref="digital-art"/>
     <file name="applesbananas300x300.jpg" crc="39101022" seo="true" ref="digital-art"/>
     <file name="bench300x300.jpg" crc="3892383792" seo="true" ref="digital-art"/>
     <file name="brick300x300.jpg" crc="4045002286" seo="true" ref="digital-art"/>
@@ -150,9 +154,11 @@
     <file name="manbird300x198.jpg" crc="113313993" seo="true" ref="digital-art"/>
     <file name="bowling-crop-u13582.jpg" crc="4111767416" ref="digital-art"/>
     <file name="chess-crop-u13602.jpg" crc="4014613309" ref="digital-art"/>
+    <file name="game-design-favicon.ico" crc="135991530" ref="game-design"/>
     <file name="chihuahua.png" crc="3863108329" seo="true" ref="game-design"/>
     <file name="brickb208x346.jpg" crc="3785982516" seo="true" ref="game-design"/>
     <file name="pinetree.png" crc="475225403" seo="true" ref="game-design"/>
+    <file name="home-favicon.ico" crc="135991530" ref="index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -180,11 +186,11 @@
     <file name="about.html" crc="115979419" seo="true" mt="1465080499841" redirect="true"/>
     <file name="contact.html" crc="343029799" seo="true" mt="1456541600951" redirect="true"/>
   </folder>
-  <file name="portfolio.html" crc="3836661647" seo="true" mt="1465109924293" redirect="true"/>
-  <file name="about.html" crc="534914584" seo="true" mt="1465080433579" redirect="true"/>
-  <file name="contact.html" crc="384202411" seo="true" mt="1465119163868" redirect="true"/>
-  <file name="traditional-art.html" crc="3835583596" seo="true" mt="1465119955691" redirect="true"/>
-  <file name="digital-art.html" crc="4217805090" seo="true" mt="1465120120765" redirect="true"/>
-  <file name="game-design.html" crc="4029972659" seo="true" mt="1465080675589" redirect="true"/>
-  <file name="index.html" crc="89866819" seo="true" mt="1465119112544" redirect="true"/>
+  <file name="portfolio.html" crc="514006633" seo="true" mt="1462442779681" redirect="true"/>
+  <file name="about.html" crc="4164489568" seo="true" mt="1462442878061" redirect="true"/>
+  <file name="contact.html" crc="4157152990" seo="true" mt="1462442897686" redirect="true"/>
+  <file name="traditional-art.html" crc="12053460" seo="true" mt="1462442812374" redirect="true"/>
+  <file name="digital-art.html" crc="4080783807" seo="true" mt="1462442834757" redirect="true"/>
+  <file name="game-design.html" crc="4228293725" seo="true" mt="1462442855356" redirect="true"/>
+  <file name="index.html" crc="4278300097" seo="true" mt="1462442657889" redirect="true"/>
 </manifest>
