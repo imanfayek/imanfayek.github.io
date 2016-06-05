@@ -1,0 +1,654 @@
+/*
+© Iman Fayek
+*/
+
+.version.game_design /* version checker */
+{
+	color: #00001B;
+	background-color: #0C5970;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 673.3499999999999px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 1px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-bottom: 117px;
+	width: 0.01px;/* should not cover content below */
+}
+
+#top
+{
+	margin-left: 487px;
+	position: relative;
+}
+
+#pu12336
+{
+	width: 0.01px;
+	margin-left: 287px;
+	margin-top: 28px;
+}
+
+#u12336
+{
+	z-index: 87;
+	width: 40px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u12332-4
+{
+	z-index: 58;
+	width: 232px;
+	min-height: 27px;
+	position: relative;
+	margin-right: -10000px;
+	left: 90px;
+}
+
+#u12484
+{
+	z-index: 89;
+	width: 40px;
+	position: relative;
+	margin-right: -10000px;
+	left: 351px;
+}
+
+#menuu12345
+{
+	z-index: 62;
+	width: 571px;
+	margin-left: 213px;
+	margin-top: 5px;
+	position: relative;
+}
+
+#u12360
+{
+	width: 118px;
+	min-height: 63px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u12363
+{
+	width: 118px;
+	padding-bottom: 20px;
+	position: relative;
+}
+
+#u12363:hover
+{
+	width: 118px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u12363.MuseMenuActive
+{
+	width: 118px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u12365-4
+{
+	width: 67px;
+	min-height: 43px;
+	position: relative;
+	margin-right: -10000px;
+	top: 10px;
+	left: 25px;
+}
+
+#u12363:hover #u12365-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 43px;
+	width: 67px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12363.MuseMenuActive #u12365-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 43px;
+	width: 67px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12346
+{
+	width: 161px;
+	min-height: 63px;
+	position: relative;
+	margin-right: -10000px;
+	left: 120px;
+}
+
+#u12349
+{
+	width: 161px;
+	padding-bottom: 20px;
+	position: relative;
+}
+
+#u12349:hover
+{
+	width: 161px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u12349.MuseMenuActive
+{
+	width: 161px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u12351-4
+{
+	width: 110px;
+	min-height: 43px;
+	position: relative;
+	margin-right: -10000px;
+	top: 10px;
+	left: 25px;
+}
+
+#u12349:hover #u12351-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 43px;
+	width: 110px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12349.MuseMenuActive #u12351-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 43px;
+	width: 110px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12353
+{
+	width: 135px;
+	min-height: 63px;
+	position: relative;
+	margin-right: -10000px;
+	left: 283px;
+}
+
+#u12356
+{
+	width: 135px;
+	padding-bottom: 20px;
+	position: relative;
+}
+
+#u12356:hover
+{
+	width: 135px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u12356.MuseMenuActive
+{
+	width: 135px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u12359-4
+{
+	width: 84px;
+	min-height: 43px;
+	position: relative;
+	margin-right: -10000px;
+	top: 10px;
+	left: 25px;
+}
+
+#u12356:hover #u12359-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 43px;
+	width: 84px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12356.MuseMenuActive #u12359-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 43px;
+	width: 84px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12367
+{
+	width: 151px;
+	min-height: 63px;
+	position: relative;
+	margin-right: -10000px;
+	left: 420px;
+}
+
+#u12370
+{
+	width: 151px;
+	padding-bottom: 20px;
+	position: relative;
+}
+
+#u12370:hover
+{
+	width: 151px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u12370.MuseMenuActive
+{
+	width: 151px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u12371-4
+{
+	width: 101px;
+	min-height: 43px;
+	position: relative;
+	margin-right: -10000px;
+	top: 10px;
+	left: 25px;
+}
+
+#u12370:hover #u12371-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 43px;
+	width: 101px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12370.MuseMenuActive #u12371-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 43px;
+	width: 101px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12758
+{
+	z-index: 57;
+	width: 336px;
+	height: 522px;
+	position: fixed;
+	bottom: 0px;
+	right: -1px;
+}
+
+#u7820-4
+{
+	z-index: 3;
+	width: 679px;
+	min-height: 92px;
+	background-color: transparent;
+	font-size: 100px;
+	line-height: 85px;
+	font-family: '__ImanHandwriting_5';
+	font-weight: 400;
+	margin-left: 231px;
+	margin-top: 80px;
+	position: relative;
+}
+
+#u12848
+{
+	z-index: 46;
+	width: 480px;
+	background-color: transparent;
+	margin-left: 275px;
+	margin-top: 31px;
+	position: relative;
+}
+
+#pu12616
+{
+	width: 0.01px;
+	padding-bottom: 103px;
+	margin-left: -100px;
+	margin-top: -124px;
+}
+
+#u12616
+{
+	z-index: 48;
+	height: 103px;
+	position: fixed;
+	bottom: 0px;
+}
+
+#u12616-bw
+{
+	z-index: 48;
+}
+
+#u12325-4
+{
+	z-index: 49;
+	width: 454px;
+	position: fixed;
+	bottom: 29px;
+	left: 305px;
+}
+
+#u12769
+{
+	z-index: 53;
+	width: 50px;
+	height: 50px;
+	position: fixed;
+	bottom: 29px;
+	left: 25px;
+}
+
+#u12796
+{
+	z-index: 54;
+	width: 50px;
+	height: 50px;
+	position: fixed;
+	bottom: 29px;
+	left: 95px;
+}
+
+#u12807
+{
+	z-index: 55;
+	width: 50px;
+	height: 50px;
+	position: fixed;
+	bottom: 29px;
+	left: 165px;
+}
+
+#u12818
+{
+	z-index: 56;
+	width: 50px;
+	height: 50px;
+	position: fixed;
+	bottom: 29px;
+	left: 235px;
+}
+
+#u9407-6
+{
+	z-index: 8;
+	width: 575px;
+	min-height: 101px;
+	background-color: transparent;
+	font-size: 30px;
+	line-height: 53px;
+	font-family: '__ImanHandwriting_5';
+	font-weight: 400;
+	margin-left: 227px;
+	margin-top: 14px;
+	position: relative;
+}
+
+#pu9891-4
+{
+	width: 0.01px;
+	margin-left: 227px;
+	margin-top: 47px;
+}
+
+#u9891-4
+{
+	z-index: 16;
+	width: 397px;
+	min-height: 101px;
+	background-color: transparent;
+	font-size: 30px;
+	line-height: 51px;
+	font-family: '__ImanHandwriting_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu12121
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 24px;
+	margin-left: 447px;
+}
+
+#u12121
+{
+	z-index: 42;
+	width: 160px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u9881
+{
+	z-index: 28;
+	width: 160px;
+	background-color: transparent;
+	margin-top: 52px;
+	position: relative;
+}
+
+#pu9983-4
+{
+	width: 0.01px;
+	margin-left: 212px;
+	margin-top: 9px;
+}
+
+#u9983-4
+{
+	z-index: 20;
+	width: 319px;
+	min-height: 220px;
+	background-color: transparent;
+	font-size: 30px;
+	line-height: 52px;
+	font-family: '__ImanHandwriting_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 409px;
+}
+
+#u9761
+{
+	z-index: 26;
+	width: 80px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 61px;
+	left: 66px;
+}
+
+#u9894
+{
+	z-index: 30;
+	width: 129px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 252px;
+	left: 527px;
+}
+
+#u9903
+{
+	z-index: 32;
+	width: 80px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 61px;
+	left: 228px;
+}
+
+#u9986-4
+{
+	z-index: 34;
+	width: 468px;
+	min-height: 101px;
+	background-color: transparent;
+	font-size: 30px;
+	line-height: 53px;
+	font-family: '__ImanHandwriting_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 211px;
+}
+
+#u9751
+{
+	z-index: 24;
+	width: 740px;
+	background-color: transparent;
+	margin-left: 201px;
+	margin-top: 20px;
+	position: relative;
+}
+
+#pu9771
+{
+	width: 0.01px;
+	margin-left: 216px;
+	margin-top: 16px;
+}
+
+#u9771
+{
+	z-index: 14;
+	width: 207px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u9989-4
+{
+	z-index: 38;
+	width: 257px;
+	min-height: 249px;
+	background-color: transparent;
+	font-size: 30px;
+	line-height: 51px;
+	font-family: '__ImanHandwriting_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 78px;
+	left: 229px;
+}
+
+#u9407-4,#u9891-2,#u9983-2,#u9986-2,#u9989-2
+{
+	padding-right: 1px;
+}
+
+#u12131
+{
+	z-index: 44;
+	width: 160px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 507px;
+}
+
+#u7819
+{
+	z-index: 7;
+	width: 62px;
+	height: 62px;
+	position: fixed;
+	-webkit-transform: matrix(0,1,-1,0,62,0);
+	-ms-transform: matrix(0,1,-1,0,62,0);
+	transform: matrix(0,1,-1,0,62,0);
+	bottom: 320px;
+	right: 0px;
+	background: #F4F4F4 url("../images/arrows-mn_arrow_left.png") no-repeat center center;
+}
+
+#u7819:hover
+{
+	width: 62px;
+	height: 62px;
+	min-height: 0px;
+	margin: 0px;
+	background: #3E3E3E url("../images/arrows-mn_arrow_left%20white.png") no-repeat center center;
+}
+
+.js #u7819.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+@font-face
+{
+	font-family: '__ImanHandwriting_5';
+	src: url('../fonts/imanhandwriting-regular.eot');
+	src: local('☺'), url('../fonts/imanhandwriting-regular.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+
