@@ -1,120 +1,439 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="imanfayek.com" resolutions="1x" timestamp="1462444408975">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="imanfayek.com" resolutions="1x" timestamp="1488699925836">
   <folder name="css">
-    <file name="site_global.css" crc="216051557"/>
-    <file name="master_b-master-copy.css" crc="3886088310" ref="contact:traditional-art:digital-art:game-design:portfolio:index:about"/>
-    <file name="contact.css" crc="4251472197" ref="contact"/>
-    <file name="traditional-art.css" crc="3809917744" ref="traditional-art"/>
-    <file name="digital-art.css" crc="4226128703" ref="digital-art"/>
-    <file name="game-design.css" crc="4155330130" ref="game-design"/>
-    <file name="portfolio.css" crc="4095324232" ref="portfolio"/>
-    <file name="index.css" crc="3875682137" ref="index"/>
-    <file name="about.css" crc="63348222" ref="about"/>
+    <file name="site_global.css" crc="3995650704"/>
+    <file name="master_b-master-copy.css" crc="219898909" ref="game-design:about:index:digital-games:contact:traditional-art:digital-art:board-games:portfolio"/>
+    <file name="game-design.css" crc="3910867621" ref="game-design"/>
+    <file name="about.css" crc="490885245" ref="about"/>
+    <file name="index.css" crc="4145009143" ref="index"/>
+    <file name="digital-games.css" crc="4049576488" ref="digital-games"/>
+    <file name="contact.css" crc="319128635" ref="contact"/>
+    <file name="traditional-art.css" crc="4131089975" ref="traditional-art"/>
+    <file name="digital-art.css" crc="396503160" ref="digital-art"/>
+    <file name="board-games.css" crc="3817973458" ref="board-games"/>
+    <file name="portfolio.css" crc="518577340" ref="portfolio"/>
   </folder>
   <folder name="fonts">
     <file name="imanhandwriting-regular.woff" crc="208314447"/>
     <file name="imanhandwriting-regular.eot" crc="134402326"/>
+    <file name="imanhandwriting-regular.woff" crc="208314447"/>
+    <file name="imanhandwriting-regular.eot" crc="134402326"/>
+    <file name="imanhandwriting-regular.woff" crc="208314447"/>
+    <file name="imanhandwriting-regular.eot" crc="134402326"/>
+    <file name="imanhandwriting-regular.woff" crc="208314447"/>
+    <file name="imanhandwriting-regular.eot" crc="134402326"/>
+    <file name="imanhandwriting-regular.woff" crc="208314447"/>
+    <file name="imanhandwriting-regular.eot" crc="134402326"/>
+    <file name="imanhandwriting-regular.woff" crc="208314447"/>
+    <file name="imanhandwriting-regular.eot" crc="134402326"/>
+    <file name="imanhandwriting-regular.woff" crc="208314447"/>
+    <file name="imanhandwriting-regular.eot" crc="134402326"/>
+    <file name="imanhandwriting-regular.woff" crc="208314447"/>
+    <file name="imanhandwriting-regular.eot" crc="134402326"/>
+    <file name="imanhandwriting-regular.woff" crc="208314447"/>
+    <file name="imanhandwriting-regular.eot" crc="134402326"/>
+    <file name="imanhandwriting-regular.woff" crc="208314447"/>
+    <file name="imanhandwriting-regular.eot" crc="134402326"/>
+    <file name="imanhandwriting-regular.woff" crc="208314447"/>
+    <file name="imanhandwriting-regular.eot" crc="134402326"/>
+    <file name="imanhandwriting-regular.woff" crc="208314447"/>
+    <file name="imanhandwriting-regular.eot" crc="134402326"/>
+    <file name="imanhandwriting-regular.woff" crc="208314447"/>
+    <file name="imanhandwriting-regular.eot" crc="134402326"/>
+    <file name="imanhandwriting-regular.woff" crc="208314447"/>
+    <file name="imanhandwriting-regular.eot" crc="134402326"/>
+    <file name="imanhandwriting-regular.woff" crc="208314447"/>
+    <file name="imanhandwriting-regular.eot" crc="134402326"/>
+    <file name="imanhandwriting-regular.woff" crc="208314447"/>
+    <file name="imanhandwriting-regular.eot" crc="134402326"/>
+    <file name="imanhandwriting-regular.woff" crc="208314447"/>
+    <file name="imanhandwriting-regular.eot" crc="134402326"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="409338010" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:traditional-art:digital-art:game-design:index"/>
-    <file name="museutils.js" crc="4190794036" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:traditional-art:digital-art:game-design:index"/>
-    <file name="whatinput.js" crc="84559013" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:traditional-art:digital-art:game-design:index"/>
-    <file name="jquery.musemenu.js" crc="3866264083" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:traditional-art:digital-art:game-design:index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="phone>index:phone>about:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:index"/>
-    <file name="jquery.watch.js" crc="349565855" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:traditional-art:digital-art:game-design:index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:traditional-art:digital-art:game-design:index"/>
-    <file name="webpro.js" crc="488283310" ref="phone>portfolio:tablet>portfolio:traditional-art:digital-art"/>
-    <file name="musewpslideshow.js" crc="248860441" ref="phone>portfolio:tablet>portfolio:traditional-art:digital-art"/>
-    <file name="jquery.museoverlay.js" crc="3898476799" ref="phone>portfolio:tablet>portfolio:traditional-art:digital-art"/>
-    <file name="touchswipe.js" crc="4191887251" ref="phone>portfolio:tablet>portfolio:traditional-art:digital-art"/>
-    <file name="museredirect.js" crc="3985760531" ref="tablet>index:tablet>portfolio:tablet>contact:portfolio:about:contact:index"/>
-    <file name="pie.js" crc="3827607177" ref="tablet>portfolio:traditional-art:digital-art"/>
-    <file name="jquery.scrolleffects.js" crc="3837774061" ref="portfolio:about:contact:traditional-art:digital-art:game-design"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:traditional-art:digital-art:game-design:index:digital-games:board-games"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:traditional-art:digital-art:game-design:index:digital-games:board-games"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:traditional-art:digital-art:game-design:index:digital-games:board-games"/>
+    <file name="museconfig.js" crc="4152223963" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:traditional-art:digital-art:game-design:index:digital-games:board-games"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:traditional-art:digital-art:game-design:index:digital-games:board-games"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="phone>index:phone>about:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:game-design:index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:traditional-art:digital-art:game-design:index:digital-games:board-games"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:traditional-art:digital-art:game-design:index:digital-games:board-games"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:portfolio:about:contact:traditional-art:digital-art:game-design:index:digital-games:board-games"/>
+    <file name="webpro.js" crc="3770351119" ref="phone>portfolio:tablet>portfolio:traditional-art:digital-art"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="phone>portfolio:tablet>portfolio:traditional-art:digital-art"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="phone>portfolio:tablet>portfolio:traditional-art:digital-art"/>
+    <file name="touchswipe.js" crc="3912873526" ref="phone>portfolio:tablet>portfolio:traditional-art:digital-art"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="portfolio:about:contact:traditional-art:digital-art:game-design:digital-games:board-games"/>
   </folder>
   <folder name="images">
-    <file name="lips.png" crc="3913146994" seo="true" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact"/>
-    <file name="flowerrounded.png" crc="4283901759" seo="true" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact"/>
-    <file name="imansolo.gif" crc="177559756" ref="phone>index:tablet>index:index"/>
-    <file name="samplemapdog.jpg" crc="3890408791" seo="true" ref="phone>index:tablet>portfolio:portfolio:game-design"/>
-    <file name="snapchat-20140815061539.jpg" crc="4206062548" ref="phone>index"/>
-    <file name="github.png" crc="526794717" seo="true" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact"/>
-    <file name="twitter.png" crc="3841755106" seo="true" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact"/>
-    <file name="pinterest.png" crc="3995826556" seo="true" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact"/>
-    <file name="linkedin.png" crc="156425999" seo="true" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact"/>
-    <file name="chihuahuasolo.gif" crc="3909281471" seo="true" ref="phone>portfolio:tablet>portfolio:game-design"/>
+    <file name="lips.png" crc="3913146994" seo="true" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="my-story" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="flowerrounded.png" crc="4283901759" seo="true" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="my-story" alt=""/>
+      <caption webpage="my-story" alt=""/>
+      <caption webpage="my-story" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="imansolo.gif" crc="177559756" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="samplemapdog.jpg" crc="3890408791" seo="true" ref="phone>index:tablet>portfolio:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="snapchat-20140815061539.jpg" crc="3865236895" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="github.png" crc="526794717" seo="true" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="my-story" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="twitter.png" crc="3841755106" seo="true" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="my-story" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pinterest.png" crc="3995826556" seo="true" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="my-story" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="linkedin.png" crc="156425999" seo="true" ref="phone>index:phone>portfolio:phone>about:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="my-story" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="chihuahuasolo.gif" crc="3909281471" seo="true" ref="phone>portfolio:tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
     <file name="blank.gif" crc="4208392903" ref="phone>portfolio:tablet>portfolio:traditional-art:digital-art"/>
-    <file name="bone.png" crc="247999427" seo="true" ref="phone>portfolio:tablet>portfolio:game-design"/>
-    <file name="squirrelsolo.gif" crc="3944628" seo="true" ref="phone>portfolio"/>
-    <file name="mailwoman.png" crc="505532046" seo="true" ref="phone>portfolio:tablet>portfolio:game-design"/>
-    <file name="brickb.jpg" crc="4123761086" seo="true" ref="phone>portfolio:tablet>portfolio"/>
-    <file name="bone-crop-u9802.png" crc="144928642" ref="phone>portfolio"/>
-    <file name="mailwoman-crop-u9842.png" crc="40489747" ref="phone>portfolio"/>
-    <file name="brickb-crop-u9822.jpg" crc="4002495180" ref="phone>portfolio"/>
-    <file name="arrows-mn_arrow_left.png" crc="4126107877" ref="phone>portfolio:tablet>portfolio:portfolio:about:contact:traditional-art:digital-art:game-design"/>
-    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="phone>portfolio:tablet>portfolio:traditional-art:digital-art"/>
+    <file name="bone.png" crc="247999427" seo="true" ref="phone>portfolio:tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="squirrelsolo.gif" crc="3944628" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mailwoman.png" crc="505532046" seo="true" ref="phone>portfolio:tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="brickb.jpg" crc="4123761086" seo="true" ref="phone>portfolio:tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bone-crop-u9802.png" crc="144928642" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mailwoman-crop-u9842.png" crc="40489747" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="brickb-crop-u9822.jpg" crc="3782398197" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="arrows-mn_arrow_left.png" crc="4126107877" ref="phone>portfolio:tablet>portfolio:portfolio:about:contact:traditional-art:digital-art:game-design:digital-games:board-games">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="phone>portfolio:tablet>portfolio:traditional-art:digital-art">
+      <caption webpage="portfolio" alt=""/>
+    </file>
     <file name="loading.gif" crc="3815509949" ref="phone>portfolio:tablet>portfolio:traditional-art:digital-art"/>
-    <file name="snapchat-3781517097236481477.jpg" crc="425879232" ref="phone>about"/>
-    <file name="snapchat-5811042481588904862-u10971-fr.jpg" crc="3911049850" ref="phone>about"/>
-    <file name="unnamed-u1839-fr.jpg" crc="342102234" ref="phone>about"/>
-    <file name="songofstorms.png" crc="3932605526" seo="true" ref="phone>about:tablet>my-story"/>
-    <file name="bfett.jpg" crc="3770680516" ref="tablet>index"/>
-    <file name="snapchat-5811042481588904862.jpg" crc="51643796" ref="tablet>index"/>
-    <file name="paper.jpg" crc="339142241" ref="tablet>portfolio:tablet>my-story:tablet>contact"/>
-    <file name="applesolo.png" crc="4204606252" seo="true" ref="tablet>portfolio:game-design"/>
-    <file name="squirrelsolo2.gif" crc="3944628" seo="true" ref="tablet>portfolio:game-design"/>
-    <file name="mailwoman-crop-u11371.png" crc="224917691" ref="tablet>portfolio"/>
-    <file name="brickb-crop-u11451.jpg" crc="3957544509" ref="tablet>portfolio"/>
-    <file name="samplemapdog-crop-u11391.jpg" crc="4077955850" ref="tablet>portfolio"/>
-    <file name="arrows-mn_close.png" crc="206776778" ref="tablet>portfolio:traditional-art:digital-art"/>
-    <file name="arabamerican.jpg" crc="192519044" seo="true" ref="tablet>portfolio:traditional-art"/>
-    <file name="dogs.jpg" crc="96989468" seo="true" ref="tablet>portfolio:traditional-art"/>
-    <file name="snail.jpg" crc="4240652116" seo="true" ref="tablet>portfolio:traditional-art"/>
-    <file name="boba250x441.jpg" crc="191042299" seo="true" ref="tablet>portfolio"/>
-    <file name="chewie.jpg" crc="344581936" seo="true" ref="tablet>portfolio:traditional-art"/>
-    <file name="imandoodleportrait268x440.jpg" crc="326514126" seo="true" ref="tablet>portfolio"/>
-    <file name="snaildoodlelq.jpg" crc="119994656" seo="true" ref="tablet>portfolio:traditional-art"/>
-    <file name="arabamerican-crop-u14372.jpg" crc="458337448" ref="tablet>portfolio"/>
-    <file name="dogs150x173.jpg" crc="3760957609" seo="true" ref="tablet>portfolio"/>
-    <file name="snail170x150.jpg" crc="321002667" seo="true" ref="tablet>portfolio"/>
-    <file name="boba-crop-u14452.jpg" crc="4238535766" ref="tablet>portfolio"/>
-    <file name="chewie-crop-u14472.jpg" crc="84360232" ref="tablet>portfolio"/>
-    <file name="imandoodleportrait-crop-u14492.jpg" crc="3957421986" ref="tablet>portfolio"/>
-    <file name="snaildoodlelq166x150.jpg" crc="4027336949" seo="true" ref="tablet>portfolio"/>
-    <file name="capture.jpg" crc="4090235137" seo="true" ref="tablet>portfolio"/>
-    <file name="goblinangle.jpg" crc="113405899" seo="true" ref="tablet>portfolio"/>
-    <file name="manbird.jpg" crc="73009250" seo="true" ref="tablet>portfolio"/>
-    <file name="bowling.jpg" crc="428992853" seo="true" ref="tablet>portfolio:digital-art"/>
-    <file name="chess.jpg" crc="198243030" seo="true" ref="tablet>portfolio:digital-art"/>
-    <file name="gnome.jpg" crc="456460365" seo="true" ref="tablet>portfolio:digital-art"/>
-    <file name="applesbananas.jpg" crc="381967692" seo="true" ref="tablet>portfolio:digital-art"/>
-    <file name="bench.jpg" crc="47388994" seo="true" ref="tablet>portfolio:digital-art"/>
-    <file name="brick.jpg" crc="203688131" seo="true" ref="tablet>portfolio:digital-art"/>
-    <file name="bridgelong.jpg" crc="374683010" seo="true" ref="tablet>portfolio:digital-art"/>
-    <file name="direwolves.jpg" crc="514808722" seo="true" ref="tablet>portfolio:digital-art"/>
-    <file name="stone.jpg" crc="482366530" seo="true" ref="tablet>portfolio:digital-art"/>
-    <file name="stonehouse.jpg" crc="4277376498" seo="true" ref="tablet>portfolio:digital-art"/>
-    <file name="capture156x150.jpg" crc="4080355941" seo="true" ref="tablet>portfolio"/>
-    <file name="goblinangle160x150.jpg" crc="4199309054" seo="true" ref="tablet>portfolio"/>
-    <file name="manbird150x99.jpg" crc="108999513" seo="true" ref="tablet>portfolio"/>
-    <file name="bowling-crop-u14542.jpg" crc="146491399" ref="tablet>portfolio"/>
-    <file name="chess-crop-u14562.jpg" crc="4292511756" ref="tablet>portfolio"/>
-    <file name="gnome-crop-u14622.jpg" crc="149333126" ref="tablet>portfolio"/>
-    <file name="applesbananas150x150.jpg" crc="282720348" seo="true" ref="tablet>portfolio"/>
-    <file name="bench150x150.jpg" crc="349686068" seo="true" ref="tablet>portfolio"/>
-    <file name="brick150x150.jpg" crc="438127323" seo="true" ref="tablet>portfolio"/>
-    <file name="bridgelong-crop-u14702.jpg" crc="3978620513" ref="tablet>portfolio"/>
-    <file name="direwolves150x150.jpg" crc="135207675" seo="true" ref="tablet>portfolio"/>
-    <file name="stone150x150.jpg" crc="119789416" seo="true" ref="tablet>portfolio"/>
-    <file name="stonehouse150x150.jpg" crc="3922898758" seo="true" ref="tablet>portfolio"/>
-    <file name="unnamed.jpg" crc="3797029482" ref="tablet>my-story:about"/>
-    <file name="img_20151224_141721.jpg" crc="4076697008" ref="tablet>my-story"/>
+    <file name="snapchat-3781517097236481477.jpg" crc="425879232" ref="phone>about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="snapchat-5811042481588904862-u10971-fr.jpg" crc="233114948" ref="phone>about"/>
+    <file name="unnamed-u1839-fr.jpg" crc="3805160095" ref="phone>about"/>
+    <file name="songofstorms.png" crc="3932605526" seo="true" ref="phone>about:tablet>my-story">
+      <caption webpage="my-story" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="bfett.jpg" crc="3825430000" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snapchat-5811042481588904862.jpg" crc="4185251462" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="paper.jpg" crc="176026811" ref="tablet>portfolio:tablet>my-story:tablet>contact">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="applesolo.png" crc="4204606252" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="squirrelsolo2.gif" crc="3944628" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mailwoman-crop-u11371.png" crc="224917691" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="brickb-crop-u11451.jpg" crc="3806590677" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="samplemapdog-crop-u11391.jpg" crc="3814940917" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="arrows-mn_close.png" crc="206776778" ref="tablet>portfolio:traditional-art:digital-art">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="arabamerican.jpg" crc="192519044" seo="true" ref="tablet>portfolio:traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dogs.jpg" crc="96989468" seo="true" ref="tablet>portfolio:traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="snail.jpg" crc="4240652116" seo="true" ref="tablet>portfolio:traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="boba250x441.jpg" crc="485201333" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="chewie.jpg" crc="344581936" seo="true" ref="tablet>portfolio:traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="imandoodleportrait.jpg" crc="275828052" seo="true" ref="tablet>portfolio:traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="snaildoodlelq.jpg" crc="119994656" seo="true" ref="tablet>portfolio:traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="arabamerican-crop-u14372.jpg" crc="3897645695" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dogs150x173.jpg" crc="4200720270" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="snail170x150.jpg" crc="507414531" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="boba-crop-u14452.jpg" crc="453695889" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="chewie-crop-u14472.jpg" crc="3885141866" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="imandoodleportrait-crop-u14492.jpg" crc="276941148" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="snaildoodlelq166x150.jpg" crc="4070504188" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="capture.jpg" crc="4090235137" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="goblinangle.jpg" crc="113405899" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="manbird.jpg" crc="73009250" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bowling.jpg" crc="428992853" seo="true" ref="tablet>portfolio:digital-art">
+      <caption webpage="digital-art" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="chess.jpg" crc="198243030" seo="true" ref="tablet>portfolio:digital-art">
+      <caption webpage="digital-art" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="gnome.jpg" crc="456460365" seo="true" ref="tablet>portfolio:digital-art">
+      <caption webpage="digital-art" alt=""/>
+      <caption webpage="digital-art" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="applesbananas.jpg" crc="381967692" seo="true" ref="tablet>portfolio:digital-art">
+      <caption webpage="digital-art" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bench.jpg" crc="47388994" seo="true" ref="tablet>portfolio:digital-art">
+      <caption webpage="digital-art" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="brick.jpg" crc="203688131" seo="true" ref="tablet>portfolio:digital-art">
+      <caption webpage="digital-art" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridgelong.jpg" crc="374683010" seo="true" ref="tablet>portfolio:digital-art">
+      <caption webpage="digital-art" alt=""/>
+      <caption webpage="digital-art" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="direwolves.jpg" crc="514808722" seo="true" ref="tablet>portfolio:digital-art">
+      <caption webpage="digital-art" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="stone.jpg" crc="482366530" seo="true" ref="tablet>portfolio:digital-art">
+      <caption webpage="digital-art" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="stonehouse.jpg" crc="4277376498" seo="true" ref="tablet>portfolio:digital-art">
+      <caption webpage="digital-art" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="capture156x150.jpg" crc="4256231114" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="goblinangle160x150.jpg" crc="3944992624" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="manbird150x99.jpg" crc="217969799" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bowling-crop-u14542.jpg" crc="251841067" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="chess-crop-u14562.jpg" crc="4203869190" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="gnome-crop-u14622.jpg" crc="8356770" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="applesbananas150x150.jpg" crc="3767828788" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bench150x150.jpg" crc="3959263280" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="brick150x150.jpg" crc="175435318" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridgelong-crop-u14702.jpg" crc="137560306" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="direwolves150x150.jpg" crc="320486276" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="stone150x150.jpg" crc="528172814" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="stonehouse150x150.jpg" crc="449667181" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="unnamed.jpg" crc="3797029482" ref="tablet>my-story:about">
+      <caption webpage="my-story" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="img_20151224_141721.jpg" crc="4076697008" ref="tablet>my-story">
+      <caption webpage="my-story" alt=""/>
+    </file>
     <file name="portfolio-favicon.ico" crc="135991530" ref="portfolio"/>
-    <file name="heart.png" crc="3867329174" seo="true" ref="portfolio:about:contact:traditional-art:digital-art:game-design:index"/>
+    <file name="heart.png" crc="3867329174" seo="true" ref="portfolio:about:contact:traditional-art:digital-art:game-design:index:digital-games:board-games">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="traditional-art" alt=""/>
+      <caption webpage="traditional-art" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="digital-games" alt=""/>
+      <caption webpage="digital-games" alt=""/>
+      <caption webpage="game-design" alt=""/>
+      <caption webpage="game-design" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="board-games" alt=""/>
+      <caption webpage="board-games" alt=""/>
+      <caption webpage="digital-art" alt=""/>
+      <caption webpage="digital-art" alt=""/>
+    </file>
     <file name="imanface-01.svg" crc="4290862962" ref="portfolio"/>
     <file name="imanface-01_poster_u12601.png" crc="4254881539" ref="portfolio"/>
     <file name="selfportrait-01.svg" crc="3893510607" ref="portfolio"/>
     <file name="selfportrait-01_poster_u12761.png" crc="4254881539" ref="portfolio"/>
-    <file name="boba.jpg" crc="30116082" ref="portfolio"/>
-    <file name="monsterface.jpg" crc="346212953" ref="portfolio"/>
+    <file name="boba.jpg" crc="30116082" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="monsterface.jpg" crc="346212953" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
     <file name="instagramwhite.svg" crc="271465780" ref="portfolio"/>
     <file name="instagramwhite_poster_u12788.png" crc="3796665473" ref="portfolio"/>
     <file name="twitterwhite.svg" crc="4022474995" ref="portfolio"/>
@@ -123,74 +442,147 @@
     <file name="⁬githubwhite_poster_u12810.png" crc="4212668629" ref="portfolio"/>
     <file name="linkedinwhite.svg" crc="4087297366" ref="portfolio"/>
     <file name="linkedinwhite_poster_u12821.png" crc="21833191" ref="portfolio"/>
-    <file name="arrows-mn_arrow_left white.png" crc="17866525" ref="portfolio:about:contact:traditional-art:digital-art:game-design"/>
+    <file name="arrows-mn_arrow_left white.png" crc="17866525" ref="portfolio:about:contact:traditional-art:digital-art:game-design:digital-games:board-games">
+      <caption webpage="portfolio" alt=""/>
+    </file>
     <file name="about-favicon.ico" crc="135991530" ref="about"/>
-    <file name="snapchat-961954948657557882.jpg" crc="122674961" ref="about"/>
-    <file name="snapchat-37815170972364814772.jpg" crc="4109804459" ref="about"/>
-    <file name="1400104493197.jpg" crc="3772362136" ref="about"/>
+    <file name="snapchat-961954948657557882.jpg" crc="122674961" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="snapchat-37815170972364814772.jpg" crc="4109804459" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="1400104493197.jpg" crc="3772362136" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
     <file name="contact-favicon.ico" crc="135991530" ref="contact"/>
     <file name="traditional-art-favicon.ico" crc="135991530" ref="traditional-art"/>
-    <file name="imandoodleportrait.jpg" crc="4076426058" seo="true" ref="traditional-art"/>
-    <file name="boba302x531.jpg" crc="507946097" seo="true" ref="traditional-art"/>
-    <file name="imandoodleportrait183x300.jpg" crc="110424262" seo="true" ref="traditional-art"/>
-    <file name="boba171x300.jpg" crc="3808814467" seo="true" ref="traditional-art"/>
-    <file name="chewie187x300.jpg" crc="183076094" seo="true" ref="traditional-art"/>
-    <file name="snaildoodlelq300x273.jpg" crc="236682808" seo="true" ref="traditional-art"/>
-    <file name="arabamerican227x300.jpg" crc="173209549" seo="true" ref="traditional-art"/>
-    <file name="dogs261x300.jpg" crc="3940142226" seo="true" ref="traditional-art"/>
-    <file name="snail300x266.jpg" crc="3876792429" seo="true" ref="traditional-art"/>
+    <file name="boba302x531.jpg" crc="477666714" seo="true" ref="traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+    </file>
+    <file name="imandoodleportrait183x300.jpg" crc="74830265" seo="true" ref="traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+    </file>
+    <file name="boba171x300.jpg" crc="324401128" seo="true" ref="traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+    </file>
+    <file name="chewie187x300.jpg" crc="3865337866" seo="true" ref="traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+    </file>
+    <file name="snaildoodlelq300x273.jpg" crc="214373019" seo="true" ref="traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+    </file>
+    <file name="arabamerican227x300.jpg" crc="3953285956" seo="true" ref="traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+    </file>
+    <file name="dogs261x300.jpg" crc="167328547" seo="true" ref="traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+    </file>
+    <file name="snail300x266.jpg" crc="3802436819" seo="true" ref="traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+    </file>
     <file name="digital-art-favicon.ico" crc="135991530" ref="digital-art"/>
-    <file name="applesbananas300x300.jpg" crc="39101022" seo="true" ref="digital-art"/>
-    <file name="bench300x300.jpg" crc="3892383792" seo="true" ref="digital-art"/>
-    <file name="brick300x300.jpg" crc="4045002286" seo="true" ref="digital-art"/>
-    <file name="direwolves300x300.jpg" crc="514808722" seo="true" ref="digital-art"/>
-    <file name="stone300x300.jpg" crc="3947060794" seo="true" ref="digital-art"/>
-    <file name="stonehouse300x300.jpg" crc="4086481195" seo="true" ref="digital-art"/>
-    <file name="capture2.jpg" crc="3920794945" seo="true" ref="digital-art"/>
-    <file name="goblinangle2.jpg" crc="4164859903" seo="true" ref="digital-art"/>
-    <file name="manbird2.jpg" crc="73009250" seo="true" ref="digital-art"/>
-    <file name="capture311x300.jpg" crc="4059423053" seo="true" ref="digital-art"/>
-    <file name="goblinangle320x300.jpg" crc="442903768" seo="true" ref="digital-art"/>
-    <file name="manbird300x198.jpg" crc="113313993" seo="true" ref="digital-art"/>
-    <file name="bowling-crop-u13582.jpg" crc="4111767416" ref="digital-art"/>
-    <file name="chess-crop-u13602.jpg" crc="4014613309" ref="digital-art"/>
+    <file name="applesbananas300x300.jpg" crc="409467111" seo="true" ref="digital-art">
+      <caption webpage="digital-art" alt=""/>
+    </file>
+    <file name="bench300x300.jpg" crc="3776973224" seo="true" ref="digital-art">
+      <caption webpage="digital-art" alt=""/>
+    </file>
+    <file name="brick300x300.jpg" crc="4019676507" seo="true" ref="digital-art">
+      <caption webpage="digital-art" alt=""/>
+    </file>
+    <file name="direwolves300x300.jpg" crc="514808722" seo="true" ref="digital-art">
+      <caption webpage="digital-art" alt=""/>
+    </file>
+    <file name="stone300x300.jpg" crc="70180209" seo="true" ref="digital-art">
+      <caption webpage="digital-art" alt=""/>
+    </file>
+    <file name="stonehouse300x300.jpg" crc="3764007013" seo="true" ref="digital-art">
+      <caption webpage="digital-art" alt=""/>
+    </file>
+    <file name="capture2.jpg" crc="3920794945" seo="true" ref="digital-art">
+      <caption webpage="digital-art" alt=""/>
+    </file>
+    <file name="goblinangle2.jpg" crc="4164859903" seo="true" ref="digital-art">
+      <caption webpage="digital-art" alt=""/>
+    </file>
+    <file name="manbird2.jpg" crc="73009250" seo="true" ref="digital-art">
+      <caption webpage="digital-art" alt=""/>
+    </file>
+    <file name="capture311x300.jpg" crc="4206145210" seo="true" ref="digital-art">
+      <caption webpage="digital-art" alt=""/>
+    </file>
+    <file name="goblinangle320x300.jpg" crc="4035482020" seo="true" ref="digital-art">
+      <caption webpage="digital-art" alt=""/>
+    </file>
+    <file name="manbird300x198.jpg" crc="3793102510" seo="true" ref="digital-art">
+      <caption webpage="digital-art" alt=""/>
+    </file>
+    <file name="bowling-crop-u13582.jpg" crc="4154196717" seo="true" ref="digital-art">
+      <caption webpage="digital-art" alt=""/>
+    </file>
+    <file name="chess-crop-u13602.jpg" crc="4182761358" seo="true" ref="digital-art">
+      <caption webpage="digital-art" alt=""/>
+    </file>
     <file name="game-design-favicon.ico" crc="135991530" ref="game-design"/>
-    <file name="chihuahua.png" crc="3863108329" seo="true" ref="game-design"/>
-    <file name="brickb208x346.jpg" crc="3785982516" seo="true" ref="game-design"/>
-    <file name="pinetree.png" crc="475225403" seo="true" ref="game-design"/>
+    <file name="flowergif.gif" crc="4206653129" ref="game-design">
+      <caption webpage="game-design" alt=""/>
+    </file>
+    <file name="drawing 42.jpg" crc="3943049822" ref="game-design">
+      <caption webpage="game-design" alt=""/>
+    </file>
     <file name="home-favicon.ico" crc="135991530" ref="index"/>
+    <file name="digital-games-favicon.ico" crc="135991530" ref="digital-games"/>
+    <file name="samplemovement.gif" crc="43309728" seo="true" ref="digital-games">
+      <caption webpage="digital-games" alt=""/>
+    </file>
+    <file name="conceptgraphic_poster_-crop-u14937.png" crc="4182751789" seo="true" ref="digital-games">
+      <caption webpage="digital-games" alt=""/>
+    </file>
+    <file name="hhscreenshot.jpg" crc="3895112228" seo="true" ref="digital-games">
+      <caption webpage="digital-games" alt=""/>
+    </file>
+    <file name="hatescreenshot.jpg" crc="4008478383" seo="true" ref="digital-games">
+      <caption webpage="digital-games" alt=""/>
+    </file>
+    <file name="board-games-favicon.ico" crc="135991530" ref="board-games"/>
+    <file name="20161114_143213.jpg" crc="321256178" seo="true" ref="board-games">
+      <caption webpage="board-games" alt=""/>
+    </file>
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="master_a-master.css" crc="4227345785" ref="tablet>index:tablet>portfolio:tablet>my-story:tablet>contact"/>
-      <file name="index.css" crc="4176998495" ref="tablet>index"/>
-      <file name="portfolio.css" crc="20464560" ref="tablet>portfolio"/>
-      <file name="my-story.css" crc="3988620412" ref="tablet>my-story"/>
-      <file name="contact.css" crc="4092925015" ref="tablet>contact"/>
+      <file name="master_a-master.css" crc="22221014" ref="tablet>portfolio:tablet>my-story:tablet>contact:tablet>index"/>
+      <file name="portfolio.css" crc="396583604" ref="tablet>portfolio"/>
+      <file name="my-story.css" crc="384756505" ref="tablet>my-story"/>
+      <file name="contact.css" crc="340917080" ref="tablet>contact"/>
+      <file name="index.css" crc="277653858" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="4206015836" seo="true" mt="1456529649879" redirect="true"/>
-    <file name="portfolio.html" crc="198739609" seo="true" mt="1465109811342" redirect="true"/>
-    <file name="my-story.html" crc="309808540" seo="true" mt="1462431982210" redirect="true"/>
-    <file name="contact.html" crc="462954483" seo="true" mt="1456542697197" redirect="true"/>
+    <file name="index.html" crc="271842922" seo="true" mt="1488697068499" redirect="true"/>
+    <file name="portfolio.html" crc="3841449764" seo="true" mt="1488675179836" redirect="true"/>
+    <file name="my-story.html" crc="182605324" seo="true" mt="1488675179844" redirect="true"/>
+    <file name="contact.html" crc="4233282803" seo="true" mt="1488675179844" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="286892219" ref="phone>about:phone>index:phone>contact:phone>portfolio"/>
-      <file name="about.css" crc="93560274" ref="phone>about"/>
-      <file name="index.css" crc="4201397921" ref="phone>index"/>
-      <file name="contact.css" crc="366626078" ref="phone>contact"/>
-      <file name="portfolio.css" crc="465447573" ref="phone>portfolio"/>
+      <file name="master_a-master.css" crc="285064964" ref="phone>index:phone>portfolio:phone>about:phone>contact"/>
+      <file name="index.css" crc="4191252050" ref="phone>index"/>
+      <file name="portfolio.css" crc="366357809" ref="phone>portfolio"/>
+      <file name="about.css" crc="4168242998" ref="phone>about"/>
+      <file name="contact.css" crc="3994607015" ref="phone>contact"/>
     </folder>
-    <file name="index.html" crc="4094370664" seo="true" mt="1456466741909" redirect="true"/>
-    <file name="portfolio.html" crc="199474461" seo="true" mt="1465080528335" redirect="true"/>
-    <file name="about.html" crc="115979419" seo="true" mt="1465080499841" redirect="true"/>
-    <file name="contact.html" crc="343029799" seo="true" mt="1456541600951" redirect="true"/>
+    <file name="index.html" crc="376109364" seo="true" mt="1488697068563" redirect="true"/>
+    <file name="portfolio.html" crc="154753414" seo="true" mt="1465080528335" redirect="true"/>
+    <file name="about.html" crc="511520815" seo="true" mt="1488697068500" redirect="true"/>
+    <file name="contact.html" crc="381784905" seo="true" mt="1456541600951" redirect="true"/>
   </folder>
-  <file name="portfolio.html" crc="514006633" seo="true" mt="1462442779681" redirect="true"/>
-  <file name="about.html" crc="4164489568" seo="true" mt="1462442878061" redirect="true"/>
-  <file name="contact.html" crc="4157152990" seo="true" mt="1462442897686" redirect="true"/>
-  <file name="traditional-art.html" crc="12053460" seo="true" mt="1462442812374" redirect="true"/>
-  <file name="digital-art.html" crc="4080783807" seo="true" mt="1462442834757" redirect="true"/>
-  <file name="game-design.html" crc="4228293725" seo="true" mt="1462442855356" redirect="true"/>
-  <file name="index.html" crc="4278300097" seo="true" mt="1462442657889" redirect="true"/>
+  <file name="portfolio.html" crc="311401880" seo="true" mt="1488699459628" redirect="true"/>
+  <file name="about.html" crc="3860416641" seo="true" mt="1488699459628" redirect="true"/>
+  <file name="contact.html" crc="4024158011" seo="true" mt="1488699459628" redirect="true"/>
+  <file name="traditional-art.html" crc="4264209167" seo="true" mt="1488699459628" redirect="true"/>
+  <file name="digital-art.html" crc="197759381" seo="true" mt="1488699459628" redirect="true"/>
+  <file name="game-design.html" crc="4194585624" seo="true" mt="1488699792000" redirect="true"/>
+  <file name="index.html" crc="4279776673" seo="true" mt="1488699459628" redirect="true"/>
+  <file name="digital-games.html" crc="240430026" seo="true" mt="1488699585725" redirect="true"/>
+  <file name="board-games.html" crc="3983418508" seo="true" mt="1488699632772" redirect="true"/>
 </manifest>
