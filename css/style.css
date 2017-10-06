@@ -3,7 +3,7 @@ html,body {height:100%;}
 
 @font-face{
   font-family: 'ImanHandwriting';
-  src:url(fonts/imanhandwriting-regular.woff) format('truetype');
+  src:url(fonts/imanhandwriting-regular.woff);
 }
 
 div {
