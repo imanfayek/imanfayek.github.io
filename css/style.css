@@ -3,8 +3,8 @@ html,body {height:100%;}
 
 @font-face{
   font-family: 'ImanHandwriting';
-  src:url('../fonts/imanhandwriting-regular.eot');
-  src: local('☺'), url('../fonts/imanhandwriting-regular.woff') format('woff');
+  src:url('fonts/imanhandwriting-regular.eot');
+  src: local('☺'), url('fonts/imanhandwriting-regular.woff') format('woff');
 }
 
 div {
