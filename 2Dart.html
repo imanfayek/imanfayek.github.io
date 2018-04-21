@@ -56,13 +56,17 @@
             <h1>Art</h1>
 
             <div class="row">
+
+            </div>
+
+            <div class="row">
+            	<div class ="col-md-4">
+            		<a class="nav-link" href="#gameConcepts">Game Concepts</a>
+            	</div>
                 <div class="col-md-4">
                     <a class="nav-link" href="#pixelArt">Pixel Art</a>
                 </div>
                 <!-- /.col-lg-4 -->
-                <div class="col-md-4">
-                    <a class="nav-link" href="#vectorArt">Vector Art</a>
-                </div>
                 <!-- /.col-lg-4 -->
                 <div class="col-md-4">
                     <a class="nav-link" href="#3DModels">3D Models</a>
@@ -71,11 +75,14 @@
             </div>
 
             <div class="row">
-                <div class="col-md-6">
+            	<div class="col-md-4">
+                    <a class="nav-link" href="#vectorArt">Vector Art</a>
+                </div>
+                <div class="col-md-4">
                     <a class="nav-link" href="#doodles">Doodles</a>
                 </div>
                 <!-- /.col-lg-4 -->
-                <div class="col-md-6">
+                <div class="col-md-4">
                     <a class="nav-link" href="#lithography">Lithographs</a>
                 </div>
                 <!-- /.col-lg-4 -->
@@ -86,6 +93,42 @@
 
     <div class="container-fluid" id="screenshots">
         <div class="container">
+
+             <h2 id="gameConcepts">Game Concepts</h2>
+            <div class="row">
+                <div class="col-md-12 col-sm-12">
+                    <img class="img-fluid" src="imgs/gameconcepts/SunshineRainbow.gif">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 col-sm-4">
+                    <img src="imgs/gameconcepts/scale.PNG" onclick="openModal('gameconceptModal');currentSlide(1, 'gameConceptSlides')" class="hover-shadow" width="100%">
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <img src="imgs/gameconcepts/painted.png" onclick="openModal('gameconceptModal');currentSlide(2, 'gameConceptSlides')" class="hover-shadow" width="100%">
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <img src="imgs/gameconcepts/happyhour.PNG" onclick="openModal('gameconceptModal');currentSlide(3, 'gameConceptSlides')" class="hover-shadow" width="100%">
+                </div>
+            </div>
+
+            <div id="gameconceptModal" class="modal">
+                <span class="close cursor" onclick="closeModal('gameconceptModal')">&times;</span>
+                <div class="modal-content">
+                    <div class="gameConceptSlides">
+                        <img src="imgs/gameconcepts/scale.PNG" style="width:100%">
+                    </div>
+                    <div class="gameConceptSlides">
+                        <img src="imgs/gameconcepts/painted.png" style="width:100%">
+                    </div>
+                    <div class="gameConceptSlides">
+                        <img src="imgs/gameconcepts/happyhour.PNG" style="width:100%">
+                    </div>
+                    </div>
+                <a class="prev" onclick="plusSlides(-1, 'gameConceptSlides')">&#10094;</a>
+                <a class="next" onclick="plusSlides(1, 'gameConceptSlides')">&#10095;</a>
+            </div>
+
             <h2 id="pixelArt">Pixel Art</h2>
             <div class="row">
                 <div class="col-md-4 col-sm-4">
@@ -139,6 +182,51 @@
 
                 <a class="prev" onclick="plusSlides(-1, 'paSlides')">&#10094;</a>
                 <a class="next" onclick="plusSlides(1, 'paSlides')">&#10095;</a>
+
+              </div>
+            </div>
+
+            <h2 id="3DModels">3D Models</h2>
+            <div class="row">
+                <div class="col-md-6 col-sm-6">
+                    <img src="imgs/3dmodels/mountain.PNG" onclick="openModal('3dModal');currentSlide(1, '3dSlides')" class="hover-shadow" width="100%">
+                </div>
+                <div class="col-md-6 col-sm-6">
+                    <img src="imgs/3dmodels/gnome.png" onclick="openModal('3dModal');currentSlide(2, '3dSlides')" class="hover-shadow" width="100%">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 col-sm-4">
+                    <img src="imgs/3dmodels/girl.PNG" onclick="openModal('3dModal');currentSlide(3, '3dSlides')" class="hover-shadow" width="100%">
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <img src="imgs/3dmodels/goblinangle.jpg" onclick="openModal('3dModal');currentSlide(4, '3dSlides')" class="hover-shadow" width="100%">
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <img src="imgs/3dmodels/man.PNG" onclick="openModal('3dModal');currentSlide(5, '3dSlides')" class="hover-shadow" width="100%">
+                </div>
+            </div>
+
+            <div id="3dModal" class="modal">
+                <span class="close cursor" onclick="closeModal('3dModal')">&times;</span>
+                <div class="modal-content">
+                    <div class="3dSlides">
+                        <img src="imgs/3dmodels/mountain.PNG" style="width:100%">
+                    </div>
+                    <div class="3dSlides">
+                        <img src="imgs/3dmodels/gnome.png" style="width:100%">
+                    </div>
+                    <div class="3dSlides">
+                        <img src="imgs/3dmodels/girl.PNG" style="width:100%">
+                    </div>
+                    <div class="3dSlides">
+                        <img src="imgs/3dmodels/goblinangle.jpg" style="width:100%">
+                    </div>
+                    <div class="3dSlides">
+                        <img src="imgs/3dmodels/man.PNG" style="width:100%">
+                    </div>
+                <a class="prev" onclick="plusSlides(-1, '3dSlides')">&#10094;</a>
+                <a class="next" onclick="plusSlides(1, '3dSlides')">&#10095;</a>
 
               </div>
             </div>
@@ -219,40 +307,6 @@
 
                 <a class="prev" onclick="plusSlides(-1, 'vaSlides')">&#10094;</a>
                 <a class="next" onclick="plusSlides(1, 'vaSlides')">&#10095;</a>
-
-              </div>
-            </div>
-
-            <h2 id="3DModels">3D Models</h2>
-            <div class="row">
-                <div class="col-md-4 col-sm-4">
-                    <img src="imgs/3dmodels/goblin.jpg" onclick="openModal('3dModal');currentSlide(1, '3dSlides')" class="hover-shadow" width="100%">
-                </div>
-                <div class="col-md-4 col-sm-4">
-                    <img src="imgs/3dmodels/goblinangle.jpg" onclick="openModal('3dModal');currentSlide(2, '3dSlides')" class="hover-shadow" width="100%">
-                </div>
-                <div class="col-md-4 col-sm-4">
-                    <img src="imgs/3dmodels/monsterface.jpg" onclick="openModal('3dModal');currentSlide(3, '3dSlides')" class="hover-shadow" width="100%">
-                </div>
-            </div>
-
-            <div id="3dModal" class="modal">
-                <span class="close cursor" onclick="closeModal('3dModal')">&times;</span>
-                <div class="modal-content">
-                    <div class="3dSlides">
-                        <img src="imgs/3dmodels/goblin.jpg" style="width:100%">
-                    </div>
-
-                    <div class="3dSlides">
-                        <img src="imgs/3dmodels/goblinangle.jpg" style="width:100%">
-                    </div>
-
-                    <div class="3dSlides">
-                        <img src="imgs/3dmodels/monsterface.jpg" style="width:100%">
-                    </div>
-
-                <a class="prev" onclick="plusSlides(-1, '3dSlides')">&#10094;</a>
-                <a class="next" onclick="plusSlides(1, '3dSlides')">&#10095;</a>
 
               </div>
             </div>
