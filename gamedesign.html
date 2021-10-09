@@ -13,7 +13,7 @@
     </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Iman Fayek - Level Design</title>
+    <title>Iman Fayek - Game Design</title>
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -21,70 +21,72 @@
 
 <body>
     <div class="container" id="header">
-        <h1>
-            <img class="img-fluid" src="imgs/icons/heart.png" alt="heart">
-            Iman Fayek
-            <img class="img-fluid" src="imgs/icons/heart.png" alt="heart">
-        </h1>
-
         <nav class="navbar navbar-toggleable-md navbar-light">
+            <a class="navbar-brand" href="index.html">
+                <img src="imgs/home/logo.png" width="auto" height="100" alt="">
+            </a>
             <button class="navbar-toggler navbar-toggler-right"  data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="index.html">Home</a>
+                    <li class="nav-item ">
+                        <a class="nav-link" href="about.html">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="games.html">Games</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="2Dart.html">Art</a>
+                        <a class="nav-link" href="uxdesign.html">UX Design</a>
                     </li>
                     <li class="nav-item active">
-                        <a class="nav-link" href="leveldesign.html">Level Design</a>
+                        <a class="nav-link" href="gamedesign.html">Game Design</a>
                     </li>
                 </ul>
             </div>
         </nav>
+
+        
     </div>
     
     <div class="container-fluid" id="about">
         <div class="container">
-            <h1>Level Design</h1> 
-
-            <div class="row">
-                <div class="col-md-4">
-                    <a class="nav-link" href="#petalsadrift">Petals Adrift</a>
-                </div>
-                <!-- /.col-lg-4 -->
-                <div class="col-md-4">
-                    <a class="nav-link" href="#2d">2D</a>
-                </div>
-                <!-- /.col-lg-4 -->
-                <div class="col-md-4">
-                    <a class="nav-link" href="#3d">3D</a>
-                </div>
-                <!-- /.col-lg-4 -->
-            </div>
+            <h1>Game Design</h1> 
         </div>
     </div>
 
     <div class="container-fluid" id="screenshots">
+
         <div class="container">
-            <h2 id="petalsadrift">Petals Adrift</h2>
-            <h4><a href="petalsadrift.html" target="_blank">More Info</a></h4>
-            <p>This was an early level that I threw up on the wall of our workspace. While it ended up having way too many things in it, this was a super fun way to approach level design.</p>
-             <div class="row">
-                <div class="col-md-6 col-sm-6">
-                    <img src="imgs/petalsadrift/levelsandbox.jpg" onclick="openModal('lModal');currentSlide(1, 'lSlides')" class="hover-shadow" width="100%">
+            <h2 id="">Hate</h2>
+
+            <div class="row">
+                <div class="col-sm-12 col-md-6">
+                    <img class="img-fluid" src="imgs/hate/screenshot.PNG">
                 </div>
-                <div class="col-md-6 col-sm-6">
-                    <img src="imgs/petalsadrift/levelsandbox.PNG" onclick="openModal('lModal');currentSlide(2, 'lSlides')" class="hover-shadow" width="100%" >
+                <div class="col-sm-12 col-md-6" id="header">
+                    <p>This game is an abstract expression of the word hate. I wanted to distill the  emotion into a form that would be identifiable outside of human interaction so chose to go the route of abstraction.</p>
+                    <h2><a href="http://www.imanfayek.com/HateGame/" target="_blank">Play online!</a></h2>
                 </div>
-            </div>           
-            <p>The game consists of 5 levels. You can find the initial sketches, refined maps, and implemented levels for the first three below.</p>
+            </div>
+            
+
+            
+
+            <h3> An explanation for those who want it:</h3>
+            <p>In the game, the player controls a red star with the arrow keys. When the player's star touches a yellow circle, the circle yelps and dims. A mob of white stars will automatically attack the most recently touched circle, further dimming it. As the player continues to hit the circles, the players movement becomes more erratic and moves with jerky movements within a radius. Eventually, all circles will dim to gray and the game is concluded.</p>
+
+            <p>The chaotic sound of an angry mob along with a high-pitched helpless yelping aims to disrupt the player's thoughts and push them towards a singular goal.
+             </p>
+
+            
+        </div>
+
+
+        <div class="container">
+            <h2 id="">Petals Adrift</h2>
+            <div id ="social">
+            <iframe frameborder="0" src="https://itch.io/embed/189845?linkback=true&amp;border_width=2&amp;link_color=1d9088&amp;border_color=49b198" width="554" height="169"></iframe>
+            </div>
+            <p>Petals Adrift is a 5-level beat-matching game for Windows that I worked on over a couple weeks, based on a prototype I made with a friend along with art by some other friends. You can find the initial sketches, refined maps, and implemented levels for the first three below. If you'd like to play, check it out on itch.io above! I programmed the beat-matching mechanic from scratch years ago and I am still very proud of that.</p>
+            <p> Please note that these are best viewed on a tablet or computer!</p>
             <div class="row">
                 <div class="col-md-4 col-sm-4">
                     <img src="imgs/petalsadrift/level1_sketch.jpg" onclick="openModal('lModal');currentSlide(1, 'lSlides')" class="hover-shadow" width="100%" height="300px">
@@ -159,52 +161,13 @@
               </div>
             </div>
 
-            <h2 id="2d">2D</h2>
-            <h5>Map Studies</h5>
-            <p>This is a study I did of Donkey Kong Country's opening level: Jungle Hijinx. This was, and still is, one of my favorite games to play!</p>
+            <h2 id="2d">Map Study</h2>
+            <h5>Donkey Kong Country</h5>
+            <p>This is a study I did of Donkey Kong Country's opening level: Jungle Hijinx. This was, and still is, one of my favorite games to play! I took notes as I played through the level, analyzing the various aspects of the level design and also paying attention to the user journey. Annotations include my inner monologue and affective state at each point.</p>
             <h5><a href="pdfs/leveldesign/DKCAnnotations.pdf" target="_blank">Annotations</a></h5>
             <div class="row">
                 <div class="col-md-12 col-sm-12">
-                    <img src="imgs/leveldesign/DKCMapAnnotated.png" width="100%">
-                </div>
-            </div>
-
-            <h5>Original Maps</h5>
-            <p>This is a level designed to suit the default mechanics of the GameMaker demo. While the purple background is from the original demo, I supplied the pixel art. The main character is based on myself and the dog bones are for my dog, Roscoe!</p>
-            <div class="row">
-                <div class="col-md-12 col-sm-12">
-                    <img src="imgs/leveldesign/GameMaker2DLevelMap.jpg" width="100%">
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12 col-sm-12">
-                    <img src="imgs/leveldesign/2dlevel1.PNG" width="100%">
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12 col-sm-12">
-                    <img src="imgs/leveldesign/2dlevel2.PNG" width="100%">
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12 col-sm-12">
-                    <img src="imgs/leveldesign/2dlevel3.PNG" width="100%">
-                </div>
-            </div>
-
-            <p>A map created for the 2D platformer that Petals Adrift evolved from. In this game, you played as a singing flower on the hunt for its missing petals. At point 3 on the map, you jumped on the back of a butterfly and guided it's flight with your song. At 4, you sang a special note towards the ground, causing a platform to pop up.  </p>
-            <div class="row">
-                <div class="col-md-12 col-sm-12">
-                    <img src="imgs/leveldesign/flowerplatformer.jpg" width="100%">
-                </div>
-            </div>
-
-            <h2 id="3d">3D</h2>
-            <h5>Map Studies</h5>
-            <p>One of my all-time favorites: Mario 64. This level map was drawn without looking at any pictures. Instead, I ran around the level for too long and stood on the floating island taking notes until I was able to get a decent map.</p>
-            <div class="row">
-                <div class="col-md-12 col-sm-12">
-                    <img src="imgs/leveldesign/Mario64Map.jpeg" width="100%">
+                    <img src="imgs/leveldesign/DKCMapAnnotated.png" id="picshadow" width="100%" >
                 </div>
             </div>
 
@@ -248,17 +211,18 @@
     <footer class="footer">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6 col-sm-6">
+                    <div class="col-sm-6">
                         <a href="https://twitter.com/imanfayek"><img class="img-fluid" src="imgs/icons/twittericon.png" width="64" height="64"></a>
                     </div>
-                    <div class="col-md-6 col-sm-6">
+                    <div class="col-sm-6">
                         <a href="https://linkedin.com/in/imanfayek"><img class="img-fluid" src="imgs/icons/linkedinicon.png" width="64" height="64"></a>
                     </div>
                 </div>
             </div>
 
         <div>
-            <h5>Copyright © 2021 Iman Fayek </h5>
+            <h5>Website made from scratch!</h5>
+            <h4>Copyright © 2021 Iman Fayek </h4>
         </div>
     </footer>
 

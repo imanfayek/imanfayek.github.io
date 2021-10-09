@@ -11,6 +11,12 @@ div {
   font-family: 'ImanHandwriting';
 }
 
+img
+{
+  /*border:  2px solid;
+  */
+}
+
 h1
 {
   font-size: 48px;
@@ -19,20 +25,30 @@ h1
 h2
 {
   padding-top: 25px;
+  padding-bottom: 25px;
   font-size: 42px;
 }
 
 h3
 {
+  padding-top: 25px;
+  padding-bottom: 25px;
   font-size: 36px;
+}
+
+h4
+{
+  padding-top: 25px;
+  padding-bottom: 25px;
+  font-size: 30px;
 }
 
 h5 
 {
-  font-size: 30px;
+  font-size: 24px;
 }
 
-p, li, .btn
+p, li
 {
   font-size: 28px;
 }
@@ -58,30 +74,29 @@ p, li, .btn
 #header {
   text-align: center;
   padding: 50px;
+  margin: auto;
 }
 
-.btn
+.btn, .btn:hover, .btn:focus
 {
   font-family: 'ImanHandwriting';
-  font-size: 28px;
+  font-size: 30px;
+  color: black;
+ padding-left: 0px;
 }
+
+
+.card{
+  
+  border:  none;
+  
+}
+
 #tasks
 {
   padding-top: 10px;
 }
 
-#home {
-    background: url('../imgs/hashtagkaiju.jpg') no-repeat  center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
-
-.buy {
-  padding: 25px;
-  text-align: center;
-}
 
 #about h2, #team h2, #screenshots h2, #social  {
   text-align: center;
@@ -151,7 +166,7 @@ footer  {
   background-color: #fefefe;
   margin: auto;
   padding: 0;
-  width: 40%;
+  width: 90%;
   max-width: 900px;
 }
 
@@ -204,6 +219,6 @@ footer  {
 }
 
 
-.hover-shadow:hover {
+.hover-shadow:hover, #picshadow {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
