@@ -7,6 +7,11 @@ html,body {height:100%;}
   src: local('☺'), url('../fonts/imanhandwriting-regular.woff') format('woff');
 }
 
+@font-face{
+  font-family: 'Montserrat';
+  src: url('../fonts/Montserrat-Light.ttf') format('truetype');
+}
+
 div {
   font-family: 'ImanHandwriting';
 }
@@ -50,7 +55,8 @@ h5
 
 p, li
 {
-  font-size: 28px;
+  font-size: 24px;
+  font-family: 'Montserrat';
 }
 
 .navbar .navbar-nav
@@ -64,6 +70,7 @@ p, li
   display: inline-block;
   float: none;
   padding: 0 50px;
+  font-family: 'ImanHandwriting'
 }
 
 .nav-link
@@ -95,6 +102,10 @@ p, li
 #tasks
 {
   padding-top: 10px;
+}
+
+ul{
+  text-align: left;
 }
 
 
