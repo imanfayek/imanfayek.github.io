@@ -1,3 +1,6 @@
 User-agent: AdsBot-Google
 User-agent: *
 Disallow: /
+
+User-agent: Googlebot-Image
+Disallow: /imgs/
